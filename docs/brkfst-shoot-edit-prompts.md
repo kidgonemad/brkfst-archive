@@ -4,57 +4,57 @@ Paste each prompt into your AI image editor with the matching photo (`brkfst-sho
 
 ### #001
 ```
-Close-up of the black sweatpants knee logo, orange backdrop. Remove the B + "brkfst" logo from the knee, leaving plain black fabric. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
+Close-up of the black sweatpants knee logo, brown backdrop. Remove the B + "brkfst" logo from the knee, leaving plain black fabric. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
 ### #002
 ```
-Model's legs in the black sweatpants, orange backdrop. Make the sweatpants legs longer. Make the sweatpants legs straight instead of flared. Remove the B + "brkfst" logos from both knees. Add the jersey's crest patch in white/grey near the front left pocket. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
+Model's legs in the black sweatpants, brown backdrop. Make the sweatpants legs longer. Make the sweatpants legs straight instead of flared. Remove the B + "brkfst" logos from both knees. Add the jersey's crest patch in white/grey near the front left pocket. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
 ### #003
 ```
-Model crouching with head down, black beanie, white tee, black sweatpants, orange backdrop. Make the beanie's bottom folded band thinner. Remove the word "brkfst" from the beanie and keep only the B logo. Make the sweatpants legs longer. Make the sweatpants legs straight instead of flared. Remove the B + "brkfst" logos from both knees. Add the jersey's crest patch in white/grey near the front left pocket. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
+Model crouching with head down, black beanie, white tee, black sweatpants, brown backdrop. Make the beanie's bottom folded band thinner. Remove the word "brkfst" from the beanie and keep only the B logo. Make the sweatpants legs longer. Make the sweatpants legs straight instead of flared. Remove the B + "brkfst" logos from both knees. Add the jersey's crest patch in white/grey near the front left pocket. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
 ### #004
 ```
-Close portrait looking down, black beanie with logo facing camera, orange backdrop. Make the beanie's bottom folded band thinner. Remove the word "brkfst" from the beanie and keep only the B logo. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
+Close portrait looking down, black beanie with logo facing camera, brown backdrop. Make the beanie's bottom folded band thinner. Remove the word "brkfst" from the beanie and keep only the B logo. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
 ### #005
 ```
-Model sitting on the floor, black beanie, white tee, black sweatpants, orange backdrop. Make the beanie's bottom folded band thinner. Remove the word "brkfst" from the beanie and keep only the B logo. Make the sweatpants legs longer. Make the sweatpants legs straight instead of flared. Remove the B + "brkfst" logos from both knees. Add the jersey's crest patch in white/grey near the front left pocket. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
+Model sitting on the floor, black beanie, white tee, black sweatpants, brown backdrop. Make the beanie's bottom folded band thinner. Remove the word "brkfst" from the beanie and keep only the B logo. Make the sweatpants legs longer. Make the sweatpants legs straight instead of flared. Remove the B + "brkfst" logos from both knees. Add the jersey's crest patch in white/grey near the front left pocket. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
 ### #006
 ```
-Full-length side profile, black beanie, white tee, black sweatpants, orange backdrop. Make the beanie's bottom folded band thinner. Remove the word "brkfst" from the beanie and keep only the B logo. Make the sweatpants legs longer. Make the sweatpants legs straight instead of flared. Remove the B + "brkfst" logos from both knees. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
+Full-length side profile, black beanie, white tee, black sweatpants, brown backdrop. Make the beanie's bottom folded band thinner. Remove the word "brkfst" from the beanie and keep only the B logo. Make the sweatpants legs longer. Make the sweatpants legs straight instead of flared. Remove the B + "brkfst" logos from both knees. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
 ### #007
 ```
-Full-length side profile facing the other way, black beanie, white tee, black sweatpants, orange backdrop. Make the beanie's bottom folded band thinner. Remove the word "brkfst" from the beanie and keep only the B logo. Make the sweatpants legs longer. Make the sweatpants legs straight instead of flared. Remove the B + "brkfst" logos from both knees. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
+Full-length side profile facing the other way, black beanie, white tee, black sweatpants, brown backdrop. Make the beanie's bottom folded band thinner. Remove the word "brkfst" from the beanie and keep only the B logo. Make the sweatpants legs longer. Make the sweatpants legs straight instead of flared. Remove the B + "brkfst" logos from both knees. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
 ### #008
 ```
-Head-and-shoulders portrait, black beanie, orange backdrop. Make the beanie's bottom folded band thinner. Remove the word "brkfst" from the beanie and keep only the B logo. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
+Head-and-shoulders portrait, black beanie, brown backdrop. Make the beanie's bottom folded band thinner. Remove the word "brkfst" from the beanie and keep only the B logo. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
 ### #009
 ```
-Model wearing the purple/white football jersey, front view, orange backdrop. Replace the white see-through mesh with a smooth, opaque silk/nylon jersey fabric (no holes); keep the purple panels exactly as they are. Make the jersey slightly slimmer, taking the sides in about 0.5 inch so it is less wide and boxy. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
+Model wearing the purple/white football jersey, front view, brown backdrop. Replace the white see-through mesh with a smooth, opaque silk/nylon jersey fabric (no holes); keep the purple panels exactly as they are. Make the jersey slightly slimmer, taking the sides in about 0.5 inch so it is less wide and boxy. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
 ### #010
 ```
-Model wearing the football jersey, back view with the large X, orange backdrop. Replace the white see-through mesh with a smooth, opaque silk/nylon jersey fabric (no holes); keep the purple panels exactly as they are. Make the jersey slightly slimmer, taking the sides in about 0.5 inch so it is less wide and boxy. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
+Model wearing the football jersey, back view with the large X, brown backdrop. Replace the white see-through mesh with a smooth, opaque silk/nylon jersey fabric (no holes); keep the purple panels exactly as they are. Make the jersey slightly slimmer, taking the sides in about 0.5 inch so it is less wide and boxy. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
 ### #011
 ```
-Model lying on the floor in the football jersey, orange backdrop. Replace the white see-through mesh with a smooth, opaque silk/nylon jersey fabric (no holes); keep the purple panels exactly as they are. Make the jersey slightly slimmer, taking the sides in about 0.5 inch so it is less wide and boxy. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
+Model lying on the floor in the football jersey, brown backdrop. Replace the white see-through mesh with a smooth, opaque silk/nylon jersey fabric (no holes); keep the purple panels exactly as they are. Make the jersey slightly slimmer, taking the sides in about 0.5 inch so it is less wide and boxy. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
 ### #012
@@ -89,12 +89,12 @@ Close-up of the BFA mark at the jersey hem. Replace the white see-through mesh w
 
 ### #018
 ```
-Model crouching in the full white tracksuit, orange backdrop. Remove the "X" from the white track jacket. On the white track jacket's collar, print only the word "BRKFST" in big clean letters, centred. Remove the "X" from the white track pants. Move the crest patch and the B + "brkfst" logo on the white pants up toward the pocket. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
+Model crouching in the full white tracksuit, brown backdrop. Remove the "X" from the white track jacket. On the white track jacket's collar, print only the word "BRKFST" in big clean letters, centred. Remove the "X" from the white track pants. Move the crest patch and the B + "brkfst" logo on the white pants up toward the pocket. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
 ### #019
 ```
-Model sitting on the floor in the white tracksuit, orange backdrop. Remove the "X" from the white track jacket. On the white track jacket's collar, print only the word "BRKFST" in big clean letters, centred. Remove the "X" from the white track pants. Move the crest patch and the B + "brkfst" logo on the white pants up toward the pocket. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
+Model sitting on the floor in the white tracksuit, brown backdrop. Remove the "X" from the white track jacket. On the white track jacket's collar, print only the word "BRKFST" in big clean letters, centred. Remove the "X" from the white track pants. Move the crest patch and the B + "brkfst" logo on the white pants up toward the pocket. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
 ### #020
@@ -119,12 +119,12 @@ Model sitting, back view in the white track jacket. On the white track jacket's 
 
 ### #024
 ```
-Model standing in the white tracksuit, front view, orange backdrop. Remove the "X" from the white track jacket. On the white track jacket's collar, print only the word "BRKFST" in big clean letters, centred. Remove the "X" from the white track pants. Move the crest patch and the B + "brkfst" logo on the white pants up toward the pocket. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
+Model standing in the white tracksuit, front view, brown backdrop. Remove the "X" from the white track jacket. On the white track jacket's collar, print only the word "BRKFST" in big clean letters, centred. Remove the "X" from the white track pants. Move the crest patch and the B + "brkfst" logo on the white pants up toward the pocket. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
 ### #025
 ```
-Model in the white tracksuit, side view, orange backdrop. Remove the "X" from the white track jacket. On the white track jacket's collar, print only the word "BRKFST" in big clean letters, centred. Remove the "X" from the white track pants. Move the crest patch and the B + "brkfst" logo on the white pants up toward the pocket. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
+Model in the white tracksuit, side view, brown backdrop. Remove the "X" from the white track jacket. On the white track jacket's collar, print only the word "BRKFST" in big clean letters, centred. Remove the "X" from the white track pants. Move the crest patch and the B + "brkfst" logo on the white pants up toward the pocket. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
 ### #026
@@ -174,7 +174,7 @@ Close-up of the crest patch on the white track pants. Move the crest patch and t
 
 ### #035
 ```
-Model in the white track jacket, front view, orange backdrop. Remove the "X" from the white track jacket. On the white track jacket's collar, print only the word "BRKFST" in big clean letters, centred. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
+Model in the white track jacket, front view, brown backdrop. Remove the "X" from the white track jacket. On the white track jacket's collar, print only the word "BRKFST" in big clean letters, centred. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
 ### #036
