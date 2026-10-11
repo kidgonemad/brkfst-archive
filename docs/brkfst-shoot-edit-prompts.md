@@ -47,9 +47,19 @@ Head-and-shoulders portrait, black beanie, brown backdrop. Make the beanie's bot
 Model wearing the purple/white football jersey, front view, brown backdrop. Replace the white see-through mesh with a smooth, opaque silk/nylon jersey fabric (no holes); keep the purple panels exactly as they are. Make the jersey slightly slimmer, taking the sides in about 0.5 inch so it is less wide and boxy. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
+Pistachio version:
+```
+Model wearing the purple/white football jersey, front view, brown backdrop. Recolour the jersey: change the purple panels to a soft, muted pistachio green and change the white body, trim and logos to cream/tan, keeping the texture, shading and folds. Replace the white see-through mesh with a smooth, opaque silk/nylon jersey fabric (no holes). Make the jersey slightly slimmer, taking the sides in about 0.5 inch so it is less wide and boxy. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
+```
+
 ### #010
 ```
 Model wearing the football jersey, back view with the large X, brown backdrop. Replace the white see-through mesh with a smooth, opaque silk/nylon jersey fabric (no holes); keep the purple panels exactly as they are. Make the jersey slightly slimmer, taking the sides in about 0.5 inch so it is less wide and boxy. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
+```
+
+Pistachio version:
+```
+Model wearing the football jersey, back view with the large X, brown backdrop. Recolour the jersey: change the purple panels to a soft, muted pistachio green and change the white body, trim and logos to cream/tan, keeping the texture, shading and folds. Replace the white see-through mesh with a smooth, opaque silk/nylon jersey fabric (no holes). Make the jersey slightly slimmer, taking the sides in about 0.5 inch so it is less wide and boxy. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
 ### #011
@@ -57,9 +67,19 @@ Model wearing the football jersey, back view with the large X, brown backdrop. R
 Model lying on the floor in the football jersey, brown backdrop. Replace the white see-through mesh with a smooth, opaque silk/nylon jersey fabric (no holes); keep the purple panels exactly as they are. Make the jersey slightly slimmer, taking the sides in about 0.5 inch so it is less wide and boxy. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
+Pistachio version:
+```
+Model lying on the floor in the football jersey, brown backdrop. Recolour the jersey: change the purple panels to a soft, muted pistachio green and change the white body, trim and logos to cream/tan, keeping the texture, shading and folds. Replace the white see-through mesh with a smooth, opaque silk/nylon jersey fabric (no holes). Make the jersey slightly slimmer, taking the sides in about 0.5 inch so it is less wide and boxy. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
+```
+
 ### #012
 ```
 Close-up of the X on the jersey's white mesh. Replace the white see-through mesh with a smooth, opaque silk/nylon jersey fabric (no holes). Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
+```
+
+Pistachio version:
+```
+Close-up of the X on the jersey's white mesh. Recolour the jersey: change the purple panels to a soft, muted pistachio green and change the white body, trim and logos to cream/tan, keeping the texture, shading and folds. Replace the white see-through mesh with a smooth, opaque silk/nylon jersey fabric (no holes). Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
 ### #013
@@ -67,9 +87,19 @@ Close-up of the X on the jersey's white mesh. Replace the white see-through mesh
 Close-up of the jersey's purple sleeve panel and white mesh. Replace the white see-through mesh with a smooth, opaque silk/nylon jersey fabric (no holes); keep the purple panels exactly as they are. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
+Pistachio version:
+```
+Close-up of the jersey's purple sleeve panel and white mesh. Recolour the jersey: change the purple panels to a soft, muted pistachio green and change the white body, trim and logos to cream/tan, keeping the texture, shading and folds. Replace the white see-through mesh with a smooth, opaque silk/nylon jersey fabric (no holes). Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
+```
+
 ### #014
 ```
 Close-up of the crest patch on the jersey's white mesh. Replace the white see-through mesh with a smooth, opaque silk/nylon jersey fabric (no holes). Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
+```
+
+Pistachio version:
+```
+Close-up of the crest patch on the jersey's white mesh. Recolour the jersey: change the purple panels to a soft, muted pistachio green and change the white body, trim and logos to cream/tan, keeping the texture, shading and folds. Replace the white see-through mesh with a smooth, opaque silk/nylon jersey fabric (no holes). Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
 ### #015
@@ -77,14 +107,29 @@ Close-up of the crest patch on the jersey's white mesh. Replace the white see-th
 Close-up of the large X on the jersey back. Replace the white see-through mesh with a smooth, opaque silk/nylon jersey fabric (no holes). Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
+Pistachio version:
+```
+Close-up of the large X on the jersey back. Recolour the jersey: change the purple panels to a soft, muted pistachio green and change the white body, trim and logos to cream/tan, keeping the texture, shading and folds. Replace the white see-through mesh with a smooth, opaque silk/nylon jersey fabric (no holes). Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
+```
+
 ### #016
 ```
 Close-up of the jersey front: X, crest and B + brkfst logo. Replace the white see-through mesh with a smooth, opaque silk/nylon jersey fabric (no holes). Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
+Pistachio version:
+```
+Close-up of the jersey front: X, crest and B + brkfst logo. Recolour the jersey: change the purple panels to a soft, muted pistachio green and change the white body, trim and logos to cream/tan, keeping the texture, shading and folds. Replace the white see-through mesh with a smooth, opaque silk/nylon jersey fabric (no holes). Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
+```
+
 ### #017
 ```
 Close-up of the BFA mark at the jersey hem. Replace the white see-through mesh with a smooth, opaque silk/nylon jersey fabric (no holes). Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
+```
+
+Pistachio version:
+```
+Close-up of the BFA mark at the jersey hem. Recolour the jersey: change the purple panels to a soft, muted pistachio green and change the white body, trim and logos to cream/tan, keeping the texture, shading and folds. Replace the white see-through mesh with a smooth, opaque silk/nylon jersey fabric (no holes). Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
 ### #018
@@ -100,6 +145,11 @@ Model sitting on the floor in the white tracksuit, brown backdrop. Remove the "X
 ### #020
 ```
 Close-up of the jersey's purple shoulder panel on the model. Replace the white see-through mesh with a smooth, opaque silk/nylon jersey fabric (no holes); keep the purple panels exactly as they are. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
+```
+
+Pistachio version:
+```
+Close-up of the jersey's purple shoulder panel on the model. Recolour the jersey: change the purple panels to a soft, muted pistachio green and change the white body, trim and logos to cream/tan, keeping the texture, shading and folds. Replace the white see-through mesh with a smooth, opaque silk/nylon jersey fabric (no holes). Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
 ### #021
@@ -303,9 +353,19 @@ Close-up of the white long sleeve's hexagon elbow pad. Make the sleeves longer. 
 Football jersey front, grey backdrop. Replace the white see-through mesh with a smooth, opaque silk/nylon jersey fabric (no holes); keep the purple panels exactly as they are. Make the jersey slightly slimmer, taking the sides in about 0.5 inch so it is less wide and boxy. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
+Pistachio version:
+```
+Football jersey front, grey backdrop. Recolour the jersey: change the purple panels to a soft, muted pistachio green and change the white body, trim and logos to cream/tan, keeping the texture, shading and folds. Replace the white see-through mesh with a smooth, opaque silk/nylon jersey fabric (no holes). Make the jersey slightly slimmer, taking the sides in about 0.5 inch so it is less wide and boxy. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
+```
+
 ### #062
 ```
 Football jersey back with the large X, grey backdrop. Replace the white see-through mesh with a smooth, opaque silk/nylon jersey fabric (no holes); keep the purple panels exactly as they are. Make the jersey slightly slimmer, taking the sides in about 0.5 inch so it is less wide and boxy. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
+```
+
+Pistachio version:
+```
+Football jersey back with the large X, grey backdrop. Recolour the jersey: change the purple panels to a soft, muted pistachio green and change the white body, trim and logos to cream/tan, keeping the texture, shading and folds. Replace the white see-through mesh with a smooth, opaque silk/nylon jersey fabric (no holes). Make the jersey slightly slimmer, taking the sides in about 0.5 inch so it is less wide and boxy. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
 ### #063
@@ -313,9 +373,19 @@ Football jersey back with the large X, grey backdrop. Replace the white see-thro
 Close-up of the jersey's purple sleeve panel. Replace the white see-through mesh with a smooth, opaque silk/nylon jersey fabric (no holes); keep the purple panels exactly as they are. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
+Pistachio version:
+```
+Close-up of the jersey's purple sleeve panel. Recolour the jersey: change the purple panels to a soft, muted pistachio green and change the white body, trim and logos to cream/tan, keeping the texture, shading and folds. Replace the white see-through mesh with a smooth, opaque silk/nylon jersey fabric (no holes). Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
+```
+
 ### #064
 ```
 Close-up of the jersey's X and B logo on white mesh. Replace the white see-through mesh with a smooth, opaque silk/nylon jersey fabric (no holes). Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
+```
+
+Pistachio version:
+```
+Close-up of the jersey's X and B logo on white mesh. Recolour the jersey: change the purple panels to a soft, muted pistachio green and change the white body, trim and logos to cream/tan, keeping the texture, shading and folds. Replace the white see-through mesh with a smooth, opaque silk/nylon jersey fabric (no holes). Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
 ### #065
@@ -323,9 +393,19 @@ Close-up of the jersey's X and B logo on white mesh. Replace the white see-throu
 Close-up of the BFA mark at the jersey hem. Replace the white see-through mesh with a smooth, opaque silk/nylon jersey fabric (no holes). Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
+Pistachio version:
+```
+Close-up of the BFA mark at the jersey hem. Recolour the jersey: change the purple panels to a soft, muted pistachio green and change the white body, trim and logos to cream/tan, keeping the texture, shading and folds. Replace the white see-through mesh with a smooth, opaque silk/nylon jersey fabric (no holes). Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
+```
+
 ### #066
 ```
 Close-up of the crest patch on the jersey. Replace the white see-through mesh with a smooth, opaque silk/nylon jersey fabric (no holes). Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
+```
+
+Pistachio version:
+```
+Close-up of the crest patch on the jersey. Recolour the jersey: change the purple panels to a soft, muted pistachio green and change the white body, trim and logos to cream/tan, keeping the texture, shading and folds. Replace the white see-through mesh with a smooth, opaque silk/nylon jersey fabric (no holes). Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
 ### #067
@@ -356,6 +436,11 @@ Close-up of the white track pants' B + brkfst logo and X by the black stripe. Re
 ### #072
 ```
 Close-up of the jersey's purple panel and white mesh at the collar. Replace the white see-through mesh with a smooth, opaque silk/nylon jersey fabric (no holes); keep the purple panels exactly as they are. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
+```
+
+Pistachio version:
+```
+Close-up of the jersey's purple panel and white mesh at the collar. Recolour the jersey: change the purple panels to a soft, muted pistachio green and change the white body, trim and logos to cream/tan, keeping the texture, shading and folds. Replace the white see-through mesh with a smooth, opaque silk/nylon jersey fabric (no holes). Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
 ### #073
@@ -513,9 +598,19 @@ Black track jacket laid flat at an angle, front. On the front chest of the black
 Football jersey laid flat, back with the large X. Replace the white see-through mesh with a smooth, opaque silk/nylon jersey fabric (no holes); keep the purple panels exactly as they are. Make the jersey slightly slimmer, taking the sides in about 0.5 inch so it is less wide and boxy. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
+Pistachio version:
+```
+Football jersey laid flat, back with the large X. Recolour the jersey: change the purple panels to a soft, muted pistachio green and change the white body, trim and logos to cream/tan, keeping the texture, shading and folds. Replace the white see-through mesh with a smooth, opaque silk/nylon jersey fabric (no holes). Make the jersey slightly slimmer, taking the sides in about 0.5 inch so it is less wide and boxy. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
+```
+
 ### #104
 ```
 Football jersey laid flat, front. Replace the white see-through mesh with a smooth, opaque silk/nylon jersey fabric (no holes); keep the purple panels exactly as they are. Make the jersey slightly slimmer, taking the sides in about 0.5 inch so it is less wide and boxy. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
+```
+
+Pistachio version:
+```
+Football jersey laid flat, front. Recolour the jersey: change the purple panels to a soft, muted pistachio green and change the white body, trim and logos to cream/tan, keeping the texture, shading and folds. Replace the white see-through mesh with a smooth, opaque silk/nylon jersey fabric (no holes). Make the jersey slightly slimmer, taking the sides in about 0.5 inch so it is less wide and boxy. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
 ### #105
@@ -526,6 +621,11 @@ Black beanie laid flat. Make the beanie's bottom folded band thinner. Remove the
 ### #106
 ```
 Football jersey folded, front. Replace the white see-through mesh with a smooth, opaque silk/nylon jersey fabric (no holes); keep the purple panels exactly as they are. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
+```
+
+Pistachio version:
+```
+Football jersey folded, front. Recolour the jersey: change the purple panels to a soft, muted pistachio green and change the white body, trim and logos to cream/tan, keeping the texture, shading and folds. Replace the white see-through mesh with a smooth, opaque silk/nylon jersey fabric (no holes). Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
 ### #107
