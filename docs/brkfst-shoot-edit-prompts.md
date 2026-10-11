@@ -1,968 +1,591 @@
-# BRKFST shoot: edit prompts (photos #001–#116)
+# BRKFST shoot: one edit prompt per photo (#001–#116)
 
-One prompt per photo, built from the revision notes. Paste the prompt into an AI image editor together with that photo (`shoot/brkfst-shoot-###.jpg`).
+Paste each prompt into your AI image editor with the matching photo (`brkfst-shoot-###.jpg`). Each prompt describes the shot and lists only the changes visible in it.
 
-Close-ups only list the change that applies to the part in frame; if a change isn't visible in the shot, the editor should ignore it.
-
-## #001  (close-up of the knee logo)
-
+### #001
 ```
-Edit this photo (close-up of the knee logo). Apply these product changes:
-- Black sweatpants: make the legs longer; make the legs straight, not flared; remove both B + "brkfst" logos from the knees; add the jersey's crest patch (white/grey version) near the front left pocket; add a small "Brkfst Football Association" (BFA) mark near the back left pocket.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Close-up of the black sweatpants knee logo, orange backdrop. Remove the B + "brkfst" logo from the knee, leaving plain black fabric. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
-
-## #002  (model's legs in the sweatpants)
 
+### #002
 ```
-Edit this photo (model's legs in the sweatpants). Apply these product changes:
-- Black sweatpants: make the legs longer; make the legs straight, not flared; remove both B + "brkfst" logos from the knees; add the jersey's crest patch (white/grey version) near the front left pocket; add a small "Brkfst Football Association" (BFA) mark near the back left pocket.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Model's legs in the black sweatpants, orange backdrop. Make the sweatpants legs longer. Make the sweatpants legs straight instead of flared. Remove the B + "brkfst" logos from both knees. Add the jersey's crest patch in white/grey near the front left pocket. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
-## #003  (model crouching/sitting, white tee)
-
+### #003
 ```
-Edit this photo (model crouching/sitting, white tee). Apply these product changes:
-- Beanie: make the bottom folded band thinner; remove the word "brkfst" and keep only the B logo.
-- Black sweatpants: make the legs longer; make the legs straight, not flared; remove both B + "brkfst" logos from the knees; add the jersey's crest patch (white/grey version) near the front left pocket; add a small "Brkfst Football Association" (BFA) mark near the back left pocket.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Model crouching with head down, black beanie, white tee, black sweatpants, orange backdrop. Make the beanie's bottom folded band thinner. Remove the word "brkfst" from the beanie and keep only the B logo. Make the sweatpants legs longer. Make the sweatpants legs straight instead of flared. Remove the B + "brkfst" logos from both knees. Add the jersey's crest patch in white/grey near the front left pocket. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
-
-## #004  (beanie portrait)
 
+### #004
 ```
-Edit this photo (beanie portrait). Apply these product changes:
-- Beanie: make the bottom folded band thinner; remove the word "brkfst" and keep only the B logo.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Close portrait looking down, black beanie with logo facing camera, orange backdrop. Make the beanie's bottom folded band thinner. Remove the word "brkfst" from the beanie and keep only the B logo. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
-## #005  (model crouching/sitting, white tee)
-
+### #005
 ```
-Edit this photo (model crouching/sitting, white tee). Apply these product changes:
-- Beanie: make the bottom folded band thinner; remove the word "brkfst" and keep only the B logo.
-- Black sweatpants: make the legs longer; make the legs straight, not flared; remove both B + "brkfst" logos from the knees; add the jersey's crest patch (white/grey version) near the front left pocket; add a small "Brkfst Football Association" (BFA) mark near the back left pocket.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Model sitting on the floor, black beanie, white tee, black sweatpants, orange backdrop. Make the beanie's bottom folded band thinner. Remove the word "brkfst" from the beanie and keep only the B logo. Make the sweatpants legs longer. Make the sweatpants legs straight instead of flared. Remove the B + "brkfst" logos from both knees. Add the jersey's crest patch in white/grey near the front left pocket. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
-
-## #006  (side profile, white tee)
 
+### #006
 ```
-Edit this photo (side profile, white tee). Apply these product changes:
-- Beanie: make the bottom folded band thinner; remove the word "brkfst" and keep only the B logo.
-- Black sweatpants: make the legs longer; make the legs straight, not flared; remove both B + "brkfst" logos from the knees; add the jersey's crest patch (white/grey version) near the front left pocket; add a small "Brkfst Football Association" (BFA) mark near the back left pocket.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Full-length side profile, black beanie, white tee, black sweatpants, orange backdrop. Make the beanie's bottom folded band thinner. Remove the word "brkfst" from the beanie and keep only the B logo. Make the sweatpants legs longer. Make the sweatpants legs straight instead of flared. Remove the B + "brkfst" logos from both knees. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
-## #007  (side profile, white tee)
-
+### #007
 ```
-Edit this photo (side profile, white tee). Apply these product changes:
-- Beanie: make the bottom folded band thinner; remove the word "brkfst" and keep only the B logo.
-- Black sweatpants: make the legs longer; make the legs straight, not flared; remove both B + "brkfst" logos from the knees; add the jersey's crest patch (white/grey version) near the front left pocket; add a small "Brkfst Football Association" (BFA) mark near the back left pocket.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Full-length side profile facing the other way, black beanie, white tee, black sweatpants, orange backdrop. Make the beanie's bottom folded band thinner. Remove the word "brkfst" from the beanie and keep only the B logo. Make the sweatpants legs longer. Make the sweatpants legs straight instead of flared. Remove the B + "brkfst" logos from both knees. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
-## #008  (beanie portrait)
-
+### #008
 ```
-Edit this photo (beanie portrait). Apply these product changes:
-- Beanie: make the bottom folded band thinner; remove the word "brkfst" and keep only the B logo.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Head-and-shoulders portrait, black beanie, orange backdrop. Make the beanie's bottom folded band thinner. Remove the word "brkfst" from the beanie and keep only the B logo. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
-
-## #009  (model wearing the jersey)
 
+### #009
 ```
-Edit this photo (model wearing the jersey). Apply these product changes:
-- Football jersey: replace the white see-through mesh with a smooth, opaque silk/nylon jersey fabric (no holes, not see-through); keep the purple panels exactly as they are; make the fit slightly slimmer: take the body in about 0.5 inch on each side so it's less wide and boxy.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Model wearing the purple/white football jersey, front view, orange backdrop. Replace the white see-through mesh with a smooth, opaque silk/nylon jersey fabric (no holes); keep the purple panels exactly as they are. Make the jersey slightly slimmer, taking the sides in about 0.5 inch so it is less wide and boxy. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
-## #010  (model wearing the jersey)
-
+### #010
 ```
-Edit this photo (model wearing the jersey). Apply these product changes:
-- Football jersey: replace the white see-through mesh with a smooth, opaque silk/nylon jersey fabric (no holes, not see-through); keep the purple panels exactly as they are; make the fit slightly slimmer: take the body in about 0.5 inch on each side so it's less wide and boxy.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Model wearing the football jersey, back view with the large X, orange backdrop. Replace the white see-through mesh with a smooth, opaque silk/nylon jersey fabric (no holes); keep the purple panels exactly as they are. Make the jersey slightly slimmer, taking the sides in about 0.5 inch so it is less wide and boxy. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
-
-## #011  (model wearing the jersey)
 
+### #011
 ```
-Edit this photo (model wearing the jersey). Apply these product changes:
-- Football jersey: replace the white see-through mesh with a smooth, opaque silk/nylon jersey fabric (no holes, not see-through); keep the purple panels exactly as they are; make the fit slightly slimmer: take the body in about 0.5 inch on each side so it's less wide and boxy.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Model lying on the floor in the football jersey, orange backdrop. Replace the white see-through mesh with a smooth, opaque silk/nylon jersey fabric (no holes); keep the purple panels exactly as they are. Make the jersey slightly slimmer, taking the sides in about 0.5 inch so it is less wide and boxy. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
-## #012  (close-up of the back X)
-
+### #012
 ```
-Edit this photo (close-up of the back X). Apply these product changes:
-- Football jersey: replace the white see-through mesh with a smooth, opaque silk/nylon jersey fabric (no holes, not see-through); keep the purple panels exactly as they are; make the fit slightly slimmer: take the body in about 0.5 inch on each side so it's less wide and boxy.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Close-up of the X on the jersey's white mesh. Replace the white see-through mesh with a smooth, opaque silk/nylon jersey fabric (no holes). Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
-
-## #013  (close-up of the sleeve/panel)
 
+### #013
 ```
-Edit this photo (close-up of the sleeve/panel). Apply these product changes:
-- Football jersey: replace the white see-through mesh with a smooth, opaque silk/nylon jersey fabric (no holes, not see-through); keep the purple panels exactly as they are; make the fit slightly slimmer: take the body in about 0.5 inch on each side so it's less wide and boxy.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Close-up of the jersey's purple sleeve panel and white mesh. Replace the white see-through mesh with a smooth, opaque silk/nylon jersey fabric (no holes); keep the purple panels exactly as they are. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
-## #014  (close-up of the crest)
-
+### #014
 ```
-Edit this photo (close-up of the crest). Apply these product changes:
-- Football jersey: replace the white see-through mesh with a smooth, opaque silk/nylon jersey fabric (no holes, not see-through); keep the purple panels exactly as they are; make the fit slightly slimmer: take the body in about 0.5 inch on each side so it's less wide and boxy.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Close-up of the crest patch on the jersey's white mesh. Replace the white see-through mesh with a smooth, opaque silk/nylon jersey fabric (no holes). Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
-## #015  (close-up of the back X)
-
+### #015
 ```
-Edit this photo (close-up of the back X). Apply these product changes:
-- Football jersey: replace the white see-through mesh with a smooth, opaque silk/nylon jersey fabric (no holes, not see-through); keep the purple panels exactly as they are; make the fit slightly slimmer: take the body in about 0.5 inch on each side so it's less wide and boxy.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Close-up of the large X on the jersey back. Replace the white see-through mesh with a smooth, opaque silk/nylon jersey fabric (no holes). Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
-
-## #016  (close-up of the front logos)
 
+### #016
 ```
-Edit this photo (close-up of the front logos). Apply these product changes:
-- Football jersey: replace the white see-through mesh with a smooth, opaque silk/nylon jersey fabric (no holes, not see-through); keep the purple panels exactly as they are; make the fit slightly slimmer: take the body in about 0.5 inch on each side so it's less wide and boxy.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Close-up of the jersey front: X, crest and B + brkfst logo. Replace the white see-through mesh with a smooth, opaque silk/nylon jersey fabric (no holes). Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
-## #017  (close-up of the BFA hem detail)
-
+### #017
 ```
-Edit this photo (close-up of the BFA hem detail). Apply these product changes:
-- Football jersey: replace the white see-through mesh with a smooth, opaque silk/nylon jersey fabric (no holes, not see-through); keep the purple panels exactly as they are; make the fit slightly slimmer: take the body in about 0.5 inch on each side so it's less wide and boxy.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Close-up of the BFA mark at the jersey hem. Replace the white see-through mesh with a smooth, opaque silk/nylon jersey fabric (no holes). Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
-
-## #018  (model in the full white tracksuit)
 
+### #018
 ```
-Edit this photo (model in the full white tracksuit). Apply these product changes:
-- White track jacket: remove the "X" logo; collar: replace the current print with only the word "BRKFST" in big, clean letters, centred on the collar.
-- White track pants: remove the "X" logo; move the crest patch and the B + "brkfst" logo up toward the pocket.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Model crouching in the full white tracksuit, orange backdrop. Remove the "X" from the white track jacket. On the white track jacket's collar, print only the word "BRKFST" in big clean letters, centred. Remove the "X" from the white track pants. Move the crest patch and the B + "brkfst" logo on the white pants up toward the pocket. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
-## #019  (model in the full white tracksuit)
-
+### #019
 ```
-Edit this photo (model in the full white tracksuit). Apply these product changes:
-- White track jacket: remove the "X" logo; collar: replace the current print with only the word "BRKFST" in big, clean letters, centred on the collar.
-- White track pants: remove the "X" logo; move the crest patch and the B + "brkfst" logo up toward the pocket.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Model sitting on the floor in the white tracksuit, orange backdrop. Remove the "X" from the white track jacket. On the white track jacket's collar, print only the word "BRKFST" in big clean letters, centred. Remove the "X" from the white track pants. Move the crest patch and the B + "brkfst" logo on the white pants up toward the pocket. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
-
-## #020  (close-up of the sleeve/panel)
 
+### #020
 ```
-Edit this photo (close-up of the sleeve/panel). Apply these product changes:
-- Football jersey: replace the white see-through mesh with a smooth, opaque silk/nylon jersey fabric (no holes, not see-through); keep the purple panels exactly as they are; make the fit slightly slimmer: take the body in about 0.5 inch on each side so it's less wide and boxy.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Close-up of the jersey's purple shoulder panel on the model. Replace the white see-through mesh with a smooth, opaque silk/nylon jersey fabric (no holes); keep the purple panels exactly as they are. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
-## #021  (close-up of the collar)
-
+### #021
 ```
-Edit this photo (close-up of the collar). Apply these product changes:
-- White track jacket: remove the "X" logo; collar: replace the current print with only the word "BRKFST" in big, clean letters, centred on the collar.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Close-up of the white track jacket's collar print (BRKFST/FST letters). On the white track jacket's collar, print only the word "BRKFST" in big clean letters, centred. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
-## #022  (white track jacket)
-
+### #022
 ```
-Edit this photo (white track jacket). Apply these product changes:
-- White track jacket: remove the "X" logo; collar: replace the current print with only the word "BRKFST" in big, clean letters, centred on the collar.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Close-up of the white track jacket chest logos (B + brkfst and X), hand at the cuff. Remove the "X" from the white track jacket. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
-
-## #023  (model in the full white tracksuit)
 
+### #023
 ```
-Edit this photo (model in the full white tracksuit). Apply these product changes:
-- White track jacket: remove the "X" logo; collar: replace the current print with only the word "BRKFST" in big, clean letters, centred on the collar.
-- White track pants: remove the "X" logo; move the crest patch and the B + "brkfst" logo up toward the pocket.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Model sitting, back view in the white track jacket. On the white track jacket's collar, print only the word "BRKFST" in big clean letters, centred. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
-## #024  (model in the full white tracksuit)
-
+### #024
 ```
-Edit this photo (model in the full white tracksuit). Apply these product changes:
-- White track jacket: remove the "X" logo; collar: replace the current print with only the word "BRKFST" in big, clean letters, centred on the collar.
-- White track pants: remove the "X" logo; move the crest patch and the B + "brkfst" logo up toward the pocket.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Model standing in the white tracksuit, front view, orange backdrop. Remove the "X" from the white track jacket. On the white track jacket's collar, print only the word "BRKFST" in big clean letters, centred. Remove the "X" from the white track pants. Move the crest patch and the B + "brkfst" logo on the white pants up toward the pocket. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
-
-## #025  (model in the full white tracksuit)
 
+### #025
 ```
-Edit this photo (model in the full white tracksuit). Apply these product changes:
-- White track jacket: remove the "X" logo; collar: replace the current print with only the word "BRKFST" in big, clean letters, centred on the collar.
-- White track pants: remove the "X" logo; move the crest patch and the B + "brkfst" logo up toward the pocket.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Model in the white tracksuit, side view, orange backdrop. Remove the "X" from the white track jacket. On the white track jacket's collar, print only the word "BRKFST" in big clean letters, centred. Remove the "X" from the white track pants. Move the crest patch and the B + "brkfst" logo on the white pants up toward the pocket. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
-## #026  (white track jacket)
-
+### #026
 ```
-Edit this photo (white track jacket). Apply these product changes:
-- White track jacket: remove the "X" logo; collar: replace the current print with only the word "BRKFST" in big, clean letters, centred on the collar.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Close-up of the crest patch on the white track jacket. No product changes needed in this shot.
 ```
-
-## #027  (white track jacket)
 
+### #027
 ```
-Edit this photo (white track jacket). Apply these product changes:
-- White track jacket: remove the "X" logo; collar: replace the current print with only the word "BRKFST" in big, clean letters, centred on the collar.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Close-up of the white track jacket's B + brkfst logo and X. Remove the "X" from the white track jacket. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
-## #028  (close-up of the collar)
-
+### #028
 ```
-Edit this photo (close-up of the collar). Apply these product changes:
-- White track jacket: remove the "X" logo; collar: replace the current print with only the word "BRKFST" in big, clean letters, centred on the collar.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Side profile, close on the white track jacket's collar. On the white track jacket's collar, print only the word "BRKFST" in big clean letters, centred. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
-## #029  (model in the full white tracksuit)
-
+### #029
 ```
-Edit this photo (model in the full white tracksuit). Apply these product changes:
-- White track jacket: remove the "X" logo; collar: replace the current print with only the word "BRKFST" in big, clean letters, centred on the collar.
-- White track pants: remove the "X" logo; move the crest patch and the B + "brkfst" logo up toward the pocket.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Model standing in the white tracksuit, full length, front view. Remove the "X" from the white track jacket. On the white track jacket's collar, print only the word "BRKFST" in big clean letters, centred. Remove the "X" from the white track pants. Move the crest patch and the B + "brkfst" logo on the white pants up toward the pocket. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
-
-## #030  (white track pants)
 
+### #030
 ```
-Edit this photo (white track pants). Apply these product changes:
-- White track pants: remove the "X" logo; move the crest patch and the B + "brkfst" logo up toward the pocket.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Close-up of the white track pants' B + brkfst logo and X next to the black stripe. Remove the "X" from the white track pants. Move the crest patch and the B + "brkfst" logo on the white pants up toward the pocket. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
-## #031  (white track pants)
-
+### #031
 ```
-Edit this photo (white track pants). Apply these product changes:
-- White track pants: remove the "X" logo; move the crest patch and the B + "brkfst" logo up toward the pocket.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Model's legs in the white track pants, front view. Remove the "X" from the white track pants. Move the crest patch and the B + "brkfst" logo on the white pants up toward the pocket. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
-
-## #032  (model in the black track jacket)
 
+### #032
 ```
-Edit this photo (model in the black track jacket). Apply these product changes:
-- Black track jacket: remove the large B + "brkfst" logo from the front chest; add a front kangaroo/pouch pocket across the lower front; collar: replace the current puff print with only the word "BRKFST" in big, clean letters; remove the small boxed logo print on the collar; change every white logo and detail (side panels, sleeve logo, BFA hit) to the same light grey used in the white tracksuit's wave pattern; make the "X" logo smaller, the same size as the crest patch; recolour the crest patch to the white-and-red colourway of the white tracksuit's crest; make the BFA side-hit print crisp and cleanly printed.
-- Beanie: make the bottom folded band thinner; remove the word "brkfst" and keep only the B logo.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Model in the black track jacket and beanie, red backdrop. Remove the large B + "brkfst" logo from the front of the black track jacket. Add a front pouch (kangaroo) pocket across the lower front of the black track jacket. On the black track jacket's collar, replace the print with only the word "BRKFST" in big clean letters and remove the small boxed logo. Change the white details on the black track jacket (side panels, sleeve logo, BFA hit) to the light grey from the white tracksuit's wave pattern. Make the "X" on the black track jacket smaller, the same size as the crest patch. Recolour the crest patch to white and red, matching the crest on the white tracksuit. Make the beanie's bottom folded band thinner. Remove the word "brkfst" from the beanie and keep only the B logo. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
-## #033  (model in the black shorts)
-
+### #033
 ```
-Edit this photo (model in the black shorts). Apply these product changes:
-- Black shorts: remove the "X" logo; change all white details (side stripes, logo) to the same light grey used in the white tracksuit's wave pattern; make the B + "brkfst" logo and the crest patch smaller and move both up toward the pocket; recolour the crest patch to the white-and-red colourway of the white tracksuit's crest.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Close-up of the model in the black shorts, red backdrop. Remove the "X" from the black shorts. Change the white side stripes and logo on the black shorts to the light grey from the white tracksuit's wave pattern. Make the B + "brkfst" logo and the crest patch on the shorts smaller and move both up toward the pocket. Recolour the shorts' crest patch to white and red, matching the crest on the white tracksuit. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
-
-## #034  (white track pants)
 
+### #034
 ```
-Edit this photo (white track pants). Apply these product changes:
-- White track pants: remove the "X" logo; move the crest patch and the B + "brkfst" logo up toward the pocket.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Close-up of the crest patch on the white track pants. Move the crest patch and the B + "brkfst" logo on the white pants up toward the pocket. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
-## #035  (white track jacket)
-
+### #035
 ```
-Edit this photo (white track jacket). Apply these product changes:
-- White track jacket: remove the "X" logo; collar: replace the current print with only the word "BRKFST" in big, clean letters, centred on the collar.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Model in the white track jacket, front view, orange backdrop. Remove the "X" from the white track jacket. On the white track jacket's collar, print only the word "BRKFST" in big clean letters, centred. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
-## #036  (model in the black set)
-
+### #036
 ```
-Edit this photo (model in the black set). Apply these product changes:
-- Black track jacket: remove the large B + "brkfst" logo from the front chest; add a front kangaroo/pouch pocket across the lower front; collar: replace the current puff print with only the word "BRKFST" in big, clean letters; remove the small boxed logo print on the collar; change every white logo and detail (side panels, sleeve logo, BFA hit) to the same light grey used in the white tracksuit's wave pattern; make the "X" logo smaller, the same size as the crest patch; recolour the crest patch to the white-and-red colourway of the white tracksuit's crest; make the BFA side-hit print crisp and cleanly printed.
-- Black shorts: remove the "X" logo; change all white details (side stripes, logo) to the same light grey used in the white tracksuit's wave pattern; make the B + "brkfst" logo and the crest patch smaller and move both up toward the pocket; recolour the crest patch to the white-and-red colourway of the white tracksuit's crest.
-- Beanie: make the bottom folded band thinner; remove the word "brkfst" and keep only the B logo.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Model standing in the black jacket, shorts and beanie, red backdrop. Remove the large B + "brkfst" logo from the front of the black track jacket. Add a front pouch (kangaroo) pocket across the lower front of the black track jacket. On the black track jacket's collar, replace the print with only the word "BRKFST" in big clean letters and remove the small boxed logo. Change the white details on the black track jacket (side panels, sleeve logo, BFA hit) to the light grey from the white tracksuit's wave pattern. Make the "X" on the black track jacket smaller, the same size as the crest patch. Recolour the crest patch to white and red, matching the crest on the white tracksuit. Remove the "X" from the black shorts. Change the white side stripes and logo on the black shorts to the light grey from the white tracksuit's wave pattern. Make the B + "brkfst" logo and the crest patch on the shorts smaller and move both up toward the pocket. Recolour the shorts' crest patch to white and red, matching the crest on the white tracksuit. Make the beanie's bottom folded band thinner. Remove the word "brkfst" from the beanie and keep only the B logo. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
-
-## #037  (model in the black set)
 
+### #037
 ```
-Edit this photo (model in the black set). Apply these product changes:
-- Black track jacket: remove the large B + "brkfst" logo from the front chest; add a front kangaroo/pouch pocket across the lower front; collar: replace the current puff print with only the word "BRKFST" in big, clean letters; remove the small boxed logo print on the collar; change every white logo and detail (side panels, sleeve logo, BFA hit) to the same light grey used in the white tracksuit's wave pattern; make the "X" logo smaller, the same size as the crest patch; recolour the crest patch to the white-and-red colourway of the white tracksuit's crest; make the BFA side-hit print crisp and cleanly printed.
-- Black shorts: remove the "X" logo; change all white details (side stripes, logo) to the same light grey used in the white tracksuit's wave pattern; make the B + "brkfst" logo and the crest patch smaller and move both up toward the pocket; recolour the crest patch to the white-and-red colourway of the white tracksuit's crest.
-- Beanie: make the bottom folded band thinner; remove the word "brkfst" and keep only the B logo.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Model sitting on the floor in the black set, red backdrop. Remove the large B + "brkfst" logo from the front of the black track jacket. Add a front pouch (kangaroo) pocket across the lower front of the black track jacket. On the black track jacket's collar, replace the print with only the word "BRKFST" in big clean letters and remove the small boxed logo. Change the white details on the black track jacket (side panels, sleeve logo, BFA hit) to the light grey from the white tracksuit's wave pattern. Make the "X" on the black track jacket smaller, the same size as the crest patch. Recolour the crest patch to white and red, matching the crest on the white tracksuit. Remove the "X" from the black shorts. Change the white side stripes and logo on the black shorts to the light grey from the white tracksuit's wave pattern. Make the B + "brkfst" logo and the crest patch on the shorts smaller and move both up toward the pocket. Recolour the shorts' crest patch to white and red, matching the crest on the white tracksuit. Make the beanie's bottom folded band thinner. Remove the word "brkfst" from the beanie and keep only the B logo. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
-## #038  (model in the black set)
-
+### #038
 ```
-Edit this photo (model in the black set). Apply these product changes:
-- Black track jacket: remove the large B + "brkfst" logo from the front chest; add a front kangaroo/pouch pocket across the lower front; collar: replace the current puff print with only the word "BRKFST" in big, clean letters; remove the small boxed logo print on the collar; change every white logo and detail (side panels, sleeve logo, BFA hit) to the same light grey used in the white tracksuit's wave pattern; make the "X" logo smaller, the same size as the crest patch; recolour the crest patch to the white-and-red colourway of the white tracksuit's crest; make the BFA side-hit print crisp and cleanly printed.
-- Black shorts: remove the "X" logo; change all white details (side stripes, logo) to the same light grey used in the white tracksuit's wave pattern; make the B + "brkfst" logo and the crest patch smaller and move both up toward the pocket; recolour the crest patch to the white-and-red colourway of the white tracksuit's crest.
-- Beanie: make the bottom folded band thinner; remove the word "brkfst" and keep only the B logo.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Model crouching in the black set, red backdrop. Remove the large B + "brkfst" logo from the front of the black track jacket. Add a front pouch (kangaroo) pocket across the lower front of the black track jacket. On the black track jacket's collar, replace the print with only the word "BRKFST" in big clean letters and remove the small boxed logo. Change the white details on the black track jacket (side panels, sleeve logo, BFA hit) to the light grey from the white tracksuit's wave pattern. Make the "X" on the black track jacket smaller, the same size as the crest patch. Recolour the crest patch to white and red, matching the crest on the white tracksuit. Remove the "X" from the black shorts. Change the white side stripes and logo on the black shorts to the light grey from the white tracksuit's wave pattern. Make the B + "brkfst" logo and the crest patch on the shorts smaller and move both up toward the pocket. Recolour the shorts' crest patch to white and red, matching the crest on the white tracksuit. Make the beanie's bottom folded band thinner. Remove the word "brkfst" from the beanie and keep only the B logo. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
-
-## #039  (model in the black set)
 
+### #039
 ```
-Edit this photo (model in the black set). Apply these product changes:
-- Black track jacket: remove the large B + "brkfst" logo from the front chest; add a front kangaroo/pouch pocket across the lower front; collar: replace the current puff print with only the word "BRKFST" in big, clean letters; remove the small boxed logo print on the collar; change every white logo and detail (side panels, sleeve logo, BFA hit) to the same light grey used in the white tracksuit's wave pattern; make the "X" logo smaller, the same size as the crest patch; recolour the crest patch to the white-and-red colourway of the white tracksuit's crest; make the BFA side-hit print crisp and cleanly printed.
-- Black shorts: remove the "X" logo; change all white details (side stripes, logo) to the same light grey used in the white tracksuit's wave pattern; make the B + "brkfst" logo and the crest patch smaller and move both up toward the pocket; recolour the crest patch to the white-and-red colourway of the white tracksuit's crest.
-- Beanie: make the bottom folded band thinner; remove the word "brkfst" and keep only the B logo.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Model lying on the floor in the black set, red backdrop. Remove the large B + "brkfst" logo from the front of the black track jacket. Add a front pouch (kangaroo) pocket across the lower front of the black track jacket. On the black track jacket's collar, replace the print with only the word "BRKFST" in big clean letters and remove the small boxed logo. Change the white details on the black track jacket (side panels, sleeve logo, BFA hit) to the light grey from the white tracksuit's wave pattern. Make the "X" on the black track jacket smaller, the same size as the crest patch. Recolour the crest patch to white and red, matching the crest on the white tracksuit. Remove the "X" from the black shorts. Change the white side stripes and logo on the black shorts to the light grey from the white tracksuit's wave pattern. Make the B + "brkfst" logo and the crest patch on the shorts smaller and move both up toward the pocket. Recolour the shorts' crest patch to white and red, matching the crest on the white tracksuit. Make the beanie's bottom folded band thinner. Remove the word "brkfst" from the beanie and keep only the B logo. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
-## #040  (back view of the black set)
-
+### #040
 ```
-Edit this photo (back view of the black set). Apply these product changes:
-- Black track jacket: remove the large B + "brkfst" logo from the front chest; add a front kangaroo/pouch pocket across the lower front; collar: replace the current puff print with only the word "BRKFST" in big, clean letters; remove the small boxed logo print on the collar; change every white logo and detail (side panels, sleeve logo, BFA hit) to the same light grey used in the white tracksuit's wave pattern; make the "X" logo smaller, the same size as the crest patch; recolour the crest patch to the white-and-red colourway of the white tracksuit's crest; make the BFA side-hit print crisp and cleanly printed.
-- Black shorts: remove the "X" logo; change all white details (side stripes, logo) to the same light grey used in the white tracksuit's wave pattern; make the B + "brkfst" logo and the crest patch smaller and move both up toward the pocket; recolour the crest patch to the white-and-red colourway of the white tracksuit's crest.
-- Beanie: make the bottom folded band thinner; remove the word "brkfst" and keep only the B logo.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Model sitting, back view of the black track jacket, red backdrop. On the black track jacket's collar, replace the print with only the word "BRKFST" in big clean letters and remove the small boxed logo. Change the white details on the black track jacket (side panels, sleeve logo, BFA hit) to the light grey from the white tracksuit's wave pattern. Make the beanie's bottom folded band thinner. Remove the word "brkfst" from the beanie and keep only the B logo. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
-
-## #041  (back view of the black set)
 
+### #041
 ```
-Edit this photo (back view of the black set). Apply these product changes:
-- Black track jacket: remove the large B + "brkfst" logo from the front chest; add a front kangaroo/pouch pocket across the lower front; collar: replace the current puff print with only the word "BRKFST" in big, clean letters; remove the small boxed logo print on the collar; change every white logo and detail (side panels, sleeve logo, BFA hit) to the same light grey used in the white tracksuit's wave pattern; make the "X" logo smaller, the same size as the crest patch; recolour the crest patch to the white-and-red colourway of the white tracksuit's crest; make the BFA side-hit print crisp and cleanly printed.
-- Black shorts: remove the "X" logo; change all white details (side stripes, logo) to the same light grey used in the white tracksuit's wave pattern; make the B + "brkfst" logo and the crest patch smaller and move both up toward the pocket; recolour the crest patch to the white-and-red colourway of the white tracksuit's crest.
-- Beanie: make the bottom folded band thinner; remove the word "brkfst" and keep only the B logo.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Model standing, back view of the black set, red backdrop. On the black track jacket's collar, replace the print with only the word "BRKFST" in big clean letters and remove the small boxed logo. Change the white details on the black track jacket (side panels, sleeve logo, BFA hit) to the light grey from the white tracksuit's wave pattern. Change the white side stripes and logo on the black shorts to the light grey from the white tracksuit's wave pattern. Make the beanie's bottom folded band thinner. Remove the word "brkfst" from the beanie and keep only the B logo. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
-## #042  (model in the black set)
-
+### #042
 ```
-Edit this photo (model in the black set). Apply these product changes:
-- Black track jacket: remove the large B + "brkfst" logo from the front chest; add a front kangaroo/pouch pocket across the lower front; collar: replace the current puff print with only the word "BRKFST" in big, clean letters; remove the small boxed logo print on the collar; change every white logo and detail (side panels, sleeve logo, BFA hit) to the same light grey used in the white tracksuit's wave pattern; make the "X" logo smaller, the same size as the crest patch; recolour the crest patch to the white-and-red colourway of the white tracksuit's crest; make the BFA side-hit print crisp and cleanly printed.
-- Black shorts: remove the "X" logo; change all white details (side stripes, logo) to the same light grey used in the white tracksuit's wave pattern; make the B + "brkfst" logo and the crest patch smaller and move both up toward the pocket; recolour the crest patch to the white-and-red colourway of the white tracksuit's crest.
-- Beanie: make the bottom folded band thinner; remove the word "brkfst" and keep only the B logo.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Model standing arms crossed in the black set, red backdrop. Remove the large B + "brkfst" logo from the front of the black track jacket. Add a front pouch (kangaroo) pocket across the lower front of the black track jacket. On the black track jacket's collar, replace the print with only the word "BRKFST" in big clean letters and remove the small boxed logo. Change the white details on the black track jacket (side panels, sleeve logo, BFA hit) to the light grey from the white tracksuit's wave pattern. Make the "X" on the black track jacket smaller, the same size as the crest patch. Recolour the crest patch to white and red, matching the crest on the white tracksuit. Remove the "X" from the black shorts. Change the white side stripes and logo on the black shorts to the light grey from the white tracksuit's wave pattern. Make the B + "brkfst" logo and the crest patch on the shorts smaller and move both up toward the pocket. Recolour the shorts' crest patch to white and red, matching the crest on the white tracksuit. Make the beanie's bottom folded band thinner. Remove the word "brkfst" from the beanie and keep only the B logo. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
-## #043  (model in the black set)
-
+### #043
 ```
-Edit this photo (model in the black set). Apply these product changes:
-- Black track jacket: remove the large B + "brkfst" logo from the front chest; add a front kangaroo/pouch pocket across the lower front; collar: replace the current puff print with only the word "BRKFST" in big, clean letters; remove the small boxed logo print on the collar; change every white logo and detail (side panels, sleeve logo, BFA hit) to the same light grey used in the white tracksuit's wave pattern; make the "X" logo smaller, the same size as the crest patch; recolour the crest patch to the white-and-red colourway of the white tracksuit's crest; make the BFA side-hit print crisp and cleanly printed.
-- Black shorts: remove the "X" logo; change all white details (side stripes, logo) to the same light grey used in the white tracksuit's wave pattern; make the B + "brkfst" logo and the crest patch smaller and move both up toward the pocket; recolour the crest patch to the white-and-red colourway of the white tracksuit's crest.
-- Beanie: make the bottom folded band thinner; remove the word "brkfst" and keep only the B logo.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Model standing arms crossed in the black set, slightly different angle, red backdrop. Remove the large B + "brkfst" logo from the front of the black track jacket. Add a front pouch (kangaroo) pocket across the lower front of the black track jacket. On the black track jacket's collar, replace the print with only the word "BRKFST" in big clean letters and remove the small boxed logo. Change the white details on the black track jacket (side panels, sleeve logo, BFA hit) to the light grey from the white tracksuit's wave pattern. Make the "X" on the black track jacket smaller, the same size as the crest patch. Recolour the crest patch to white and red, matching the crest on the white tracksuit. Remove the "X" from the black shorts. Change the white side stripes and logo on the black shorts to the light grey from the white tracksuit's wave pattern. Make the B + "brkfst" logo and the crest patch on the shorts smaller and move both up toward the pocket. Recolour the shorts' crest patch to white and red, matching the crest on the white tracksuit. Make the beanie's bottom folded band thinner. Remove the word "brkfst" from the beanie and keep only the B logo. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
-
-## #044  (close-up of the sleeve logo)
 
+### #044
 ```
-Edit this photo (close-up of the sleeve logo). Apply these product changes:
-- Black track jacket: remove the large B + "brkfst" logo from the front chest; add a front kangaroo/pouch pocket across the lower front; collar: replace the current puff print with only the word "BRKFST" in big, clean letters; remove the small boxed logo print on the collar; change every white logo and detail (side panels, sleeve logo, BFA hit) to the same light grey used in the white tracksuit's wave pattern; make the "X" logo smaller, the same size as the crest patch; recolour the crest patch to the white-and-red colourway of the white tracksuit's crest; make the BFA side-hit print crisp and cleanly printed.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Close-up of the black track jacket's sleeve logo and cuff. Change the white sleeve logo to the light grey from the white tracksuit's wave pattern. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
-## #045  (close-up of the crest)
-
+### #045
 ```
-Edit this photo (close-up of the crest). Apply these product changes:
-- Black track jacket: remove the large B + "brkfst" logo from the front chest; add a front kangaroo/pouch pocket across the lower front; collar: replace the current puff print with only the word "BRKFST" in big, clean letters; remove the small boxed logo print on the collar; change every white logo and detail (side panels, sleeve logo, BFA hit) to the same light grey used in the white tracksuit's wave pattern; make the "X" logo smaller, the same size as the crest patch; recolour the crest patch to the white-and-red colourway of the white tracksuit's crest; make the BFA side-hit print crisp and cleanly printed.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Close-up of the crest patch on the black track jacket. Recolour the crest patch to white and red, matching the crest on the white tracksuit. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
-
-## #046  (close-up of the shorts logos)
 
+### #046
 ```
-Edit this photo (close-up of the shorts logos). Apply these product changes:
-- Black shorts: remove the "X" logo; change all white details (side stripes, logo) to the same light grey used in the white tracksuit's wave pattern; make the B + "brkfst" logo and the crest patch smaller and move both up toward the pocket; recolour the crest patch to the white-and-red colourway of the white tracksuit's crest.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Close-up of the black shorts' B + brkfst logo and X. Remove the "X" from the black shorts. Change the white side stripes and logo on the black shorts to the light grey from the white tracksuit's wave pattern. Make the B + "brkfst" logo and the crest patch on the shorts smaller and move both up toward the pocket. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
-## #047  (close-up of the X)
-
+### #047
 ```
-Edit this photo (close-up of the X). Apply these product changes:
-- Black track jacket: remove the large B + "brkfst" logo from the front chest; add a front kangaroo/pouch pocket across the lower front; collar: replace the current puff print with only the word "BRKFST" in big, clean letters; remove the small boxed logo print on the collar; change every white logo and detail (side panels, sleeve logo, BFA hit) to the same light grey used in the white tracksuit's wave pattern; make the "X" logo smaller, the same size as the crest patch; recolour the crest patch to the white-and-red colourway of the white tracksuit's crest; make the BFA side-hit print crisp and cleanly printed.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Close-up of the X on the black track jacket. Make the "X" smaller (same size as the crest patch) and change it from white to the light grey from the white tracksuit's wave pattern. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
-
-## #048  (close-up of the front logos)
 
+### #048
 ```
-Edit this photo (close-up of the front logos). Apply these product changes:
-- Black track jacket: remove the large B + "brkfst" logo from the front chest; add a front kangaroo/pouch pocket across the lower front; collar: replace the current puff print with only the word "BRKFST" in big, clean letters; remove the small boxed logo print on the collar; change every white logo and detail (side panels, sleeve logo, BFA hit) to the same light grey used in the white tracksuit's wave pattern; make the "X" logo smaller, the same size as the crest patch; recolour the crest patch to the white-and-red colourway of the white tracksuit's crest; make the BFA side-hit print crisp and cleanly printed.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Close-up of the black track jacket front: X, crest and B + brkfst logo. Remove the large B + "brkfst" logo from the front of the black track jacket. Make the "X" smaller (same size as the crest patch) and change it from white to the light grey from the white tracksuit's wave pattern. Recolour the crest patch to white and red, matching the crest on the white tracksuit. Add a front pouch (kangaroo) pocket across the lower front of the black track jacket. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
-## #049  (close-up of the zip)
-
+### #049
 ```
-Edit this photo (close-up of the zip). Apply these product changes:
-- Black track jacket: remove the large B + "brkfst" logo from the front chest; add a front kangaroo/pouch pocket across the lower front; collar: replace the current puff print with only the word "BRKFST" in big, clean letters; remove the small boxed logo print on the collar; change every white logo and detail (side panels, sleeve logo, BFA hit) to the same light grey used in the white tracksuit's wave pattern; make the "X" logo smaller, the same size as the crest patch; recolour the crest patch to the white-and-red colourway of the white tracksuit's crest; make the BFA side-hit print crisp and cleanly printed.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Close-up of the black track jacket's diagonal zip. Add a front pouch (kangaroo) pocket across the lower front of the black track jacket. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
-
-## #050  (close-up of the collar)
 
+### #050
 ```
-Edit this photo (close-up of the collar). Apply these product changes:
-- Black track jacket: remove the large B + "brkfst" logo from the front chest; add a front kangaroo/pouch pocket across the lower front; collar: replace the current puff print with only the word "BRKFST" in big, clean letters; remove the small boxed logo print on the collar; change every white logo and detail (side panels, sleeve logo, BFA hit) to the same light grey used in the white tracksuit's wave pattern; make the "X" logo smaller, the same size as the crest patch; recolour the crest patch to the white-and-red colourway of the white tracksuit's crest; make the BFA side-hit print crisp and cleanly printed.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Model's profile, close on the black track jacket's collar print. On the black track jacket's collar, replace the print with only the word "BRKFST" in big clean letters and remove the small boxed logo. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
-## #051  (close-up of the front logos)
-
+### #051
 ```
-Edit this photo (close-up of the front logos). Apply these product changes:
-- Black track jacket: remove the large B + "brkfst" logo from the front chest; add a front kangaroo/pouch pocket across the lower front; collar: replace the current puff print with only the word "BRKFST" in big, clean letters; remove the small boxed logo print on the collar; change every white logo and detail (side panels, sleeve logo, BFA hit) to the same light grey used in the white tracksuit's wave pattern; make the "X" logo smaller, the same size as the crest patch; recolour the crest patch to the white-and-red colourway of the white tracksuit's crest; make the BFA side-hit print crisp and cleanly printed.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Close-up of the B + brkfst logo on the black track jacket. Remove the large B + "brkfst" logo from the front of the black track jacket. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
-
-## #052  (close-up of the crest)
 
+### #052
 ```
-Edit this photo (close-up of the crest). Apply these product changes:
-- Black track jacket: remove the large B + "brkfst" logo from the front chest; add a front kangaroo/pouch pocket across the lower front; collar: replace the current puff print with only the word "BRKFST" in big, clean letters; remove the small boxed logo print on the collar; change every white logo and detail (side panels, sleeve logo, BFA hit) to the same light grey used in the white tracksuit's wave pattern; make the "X" logo smaller, the same size as the crest patch; recolour the crest patch to the white-and-red colourway of the white tracksuit's crest; make the BFA side-hit print crisp and cleanly printed.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Close-up of the crest patch on the black track jacket. Recolour the crest patch to white and red, matching the crest on the white tracksuit. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
-## #053  (close-up of the collar)
-
+### #053
 ```
-Edit this photo (close-up of the collar). Apply these product changes:
-- Black track jacket: remove the large B + "brkfst" logo from the front chest; add a front kangaroo/pouch pocket across the lower front; collar: replace the current puff print with only the word "BRKFST" in big, clean letters; remove the small boxed logo print on the collar; change every white logo and detail (side panels, sleeve logo, BFA hit) to the same light grey used in the white tracksuit's wave pattern; make the "X" logo smaller, the same size as the crest patch; recolour the crest patch to the white-and-red colourway of the white tracksuit's crest; make the BFA side-hit print crisp and cleanly printed.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Close on the black track jacket's collar print from behind. On the black track jacket's collar, replace the print with only the word "BRKFST" in big clean letters and remove the small boxed logo. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
-
-## #054
-_No change: tote bag only._
 
-## #055  (model in the black set)
+### #054
+No change (tote bag only).
 
+### #055
 ```
-Edit this photo (model in the black set). Apply these product changes:
-- Black track jacket: remove the large B + "brkfst" logo from the front chest; add a front kangaroo/pouch pocket across the lower front; collar: replace the current puff print with only the word "BRKFST" in big, clean letters; remove the small boxed logo print on the collar; change every white logo and detail (side panels, sleeve logo, BFA hit) to the same light grey used in the white tracksuit's wave pattern; make the "X" logo smaller, the same size as the crest patch; recolour the crest patch to the white-and-red colourway of the white tracksuit's crest; make the BFA side-hit print crisp and cleanly printed.
-- Black shorts: remove the "X" logo; change all white details (side stripes, logo) to the same light grey used in the white tracksuit's wave pattern; make the B + "brkfst" logo and the crest patch smaller and move both up toward the pocket; recolour the crest patch to the white-and-red colourway of the white tracksuit's crest.
-- Beanie: make the bottom folded band thinner; remove the word "brkfst" and keep only the B logo.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Model in the black set holding the tote bag, red backdrop. Remove the large B + "brkfst" logo from the front of the black track jacket. Add a front pouch (kangaroo) pocket across the lower front of the black track jacket. On the black track jacket's collar, replace the print with only the word "BRKFST" in big clean letters and remove the small boxed logo. Change the white details on the black track jacket (side panels, sleeve logo, BFA hit) to the light grey from the white tracksuit's wave pattern. Make the "X" on the black track jacket smaller, the same size as the crest patch. Recolour the crest patch to white and red, matching the crest on the white tracksuit. Remove the "X" from the black shorts. Change the white side stripes and logo on the black shorts to the light grey from the white tracksuit's wave pattern. Make the B + "brkfst" logo and the crest patch on the shorts smaller and move both up toward the pocket. Recolour the shorts' crest patch to white and red, matching the crest on the white tracksuit. Make the beanie's bottom folded band thinner. Remove the word "brkfst" from the beanie and keep only the B logo. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
-## #056
-_No change: tote bag only._
+### #056
+No change (tote bag only).
 
-## #057  (long sleeve on its own)
-
+### #057
 ```
-Edit this photo (long sleeve on its own). Apply these product changes:
-- White long sleeve: take the body in about 0.5 inch on each side for a slimmer fit; make the sleeves longer; make the hexagon elbow pads longer and move them away from the sleeve seam.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+White long sleeve, front view, grey backdrop. Take the long sleeve's body in about 0.5 inch on each side for a slimmer fit. Make the sleeves longer. Make the hexagon elbow pads longer and move them away from the sleeve seam. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
-
-## #058  (model in the black set)
 
+### #058
 ```
-Edit this photo (model in the black set). Apply these product changes:
-- Black track jacket: remove the large B + "brkfst" logo from the front chest; add a front kangaroo/pouch pocket across the lower front; collar: replace the current puff print with only the word "BRKFST" in big, clean letters; remove the small boxed logo print on the collar; change every white logo and detail (side panels, sleeve logo, BFA hit) to the same light grey used in the white tracksuit's wave pattern; make the "X" logo smaller, the same size as the crest patch; recolour the crest patch to the white-and-red colourway of the white tracksuit's crest; make the BFA side-hit print crisp and cleanly printed.
-- Black shorts: remove the "X" logo; change all white details (side stripes, logo) to the same light grey used in the white tracksuit's wave pattern; make the B + "brkfst" logo and the crest patch smaller and move both up toward the pocket; recolour the crest patch to the white-and-red colourway of the white tracksuit's crest.
-- Beanie: make the bottom folded band thinner; remove the word "brkfst" and keep only the B logo.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Model in the black set holding the tote bag, wider shot, red backdrop. Remove the large B + "brkfst" logo from the front of the black track jacket. Add a front pouch (kangaroo) pocket across the lower front of the black track jacket. On the black track jacket's collar, replace the print with only the word "BRKFST" in big clean letters and remove the small boxed logo. Change the white details on the black track jacket (side panels, sleeve logo, BFA hit) to the light grey from the white tracksuit's wave pattern. Make the "X" on the black track jacket smaller, the same size as the crest patch. Recolour the crest patch to white and red, matching the crest on the white tracksuit. Remove the "X" from the black shorts. Change the white side stripes and logo on the black shorts to the light grey from the white tracksuit's wave pattern. Make the B + "brkfst" logo and the crest patch on the shorts smaller and move both up toward the pocket. Recolour the shorts' crest patch to white and red, matching the crest on the white tracksuit. Make the beanie's bottom folded band thinner. Remove the word "brkfst" from the beanie and keep only the B logo. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
-## #059  (long sleeve on its own)
-
+### #059
 ```
-Edit this photo (long sleeve on its own). Apply these product changes:
-- White long sleeve: take the body in about 0.5 inch on each side for a slimmer fit; make the sleeves longer; make the hexagon elbow pads longer and move them away from the sleeve seam.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+White long sleeve, back view, grey backdrop. Take the long sleeve's body in about 0.5 inch on each side for a slimmer fit. Make the sleeves longer. Make the hexagon elbow pads longer and move them away from the sleeve seam. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
-## #060  (close-up of the elbow pad)
-
+### #060
 ```
-Edit this photo (close-up of the elbow pad). Apply these product changes:
-- White long sleeve: take the body in about 0.5 inch on each side for a slimmer fit; make the sleeves longer; make the hexagon elbow pads longer and move them away from the sleeve seam.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Close-up of the white long sleeve's hexagon elbow pad. Make the sleeves longer. Make the hexagon elbow pads longer and move them away from the sleeve seam. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
-
-## #061  (jersey on its own)
 
+### #061
 ```
-Edit this photo (jersey on its own). Apply these product changes:
-- Football jersey: replace the white see-through mesh with a smooth, opaque silk/nylon jersey fabric (no holes, not see-through); keep the purple panels exactly as they are; make the fit slightly slimmer: take the body in about 0.5 inch on each side so it's less wide and boxy.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Football jersey front, grey backdrop. Replace the white see-through mesh with a smooth, opaque silk/nylon jersey fabric (no holes); keep the purple panels exactly as they are. Make the jersey slightly slimmer, taking the sides in about 0.5 inch so it is less wide and boxy. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
-## #062  (jersey on its own)
-
+### #062
 ```
-Edit this photo (jersey on its own). Apply these product changes:
-- Football jersey: replace the white see-through mesh with a smooth, opaque silk/nylon jersey fabric (no holes, not see-through); keep the purple panels exactly as they are; make the fit slightly slimmer: take the body in about 0.5 inch on each side so it's less wide and boxy.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Football jersey back with the large X, grey backdrop. Replace the white see-through mesh with a smooth, opaque silk/nylon jersey fabric (no holes); keep the purple panels exactly as they are. Make the jersey slightly slimmer, taking the sides in about 0.5 inch so it is less wide and boxy. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
-
-## #063  (close-up of the sleeve/panel)
 
+### #063
 ```
-Edit this photo (close-up of the sleeve/panel). Apply these product changes:
-- Football jersey: replace the white see-through mesh with a smooth, opaque silk/nylon jersey fabric (no holes, not see-through); keep the purple panels exactly as they are; make the fit slightly slimmer: take the body in about 0.5 inch on each side so it's less wide and boxy.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Close-up of the jersey's purple sleeve panel. Replace the white see-through mesh with a smooth, opaque silk/nylon jersey fabric (no holes); keep the purple panels exactly as they are. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
-## #064  (close-up of the X)
-
+### #064
 ```
-Edit this photo (close-up of the X). Apply these product changes:
-- Football jersey: replace the white see-through mesh with a smooth, opaque silk/nylon jersey fabric (no holes, not see-through); keep the purple panels exactly as they are; make the fit slightly slimmer: take the body in about 0.5 inch on each side so it's less wide and boxy.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Close-up of the jersey's X and B logo on white mesh. Replace the white see-through mesh with a smooth, opaque silk/nylon jersey fabric (no holes). Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
-
-## #065  (close-up of the BFA hem detail)
 
+### #065
 ```
-Edit this photo (close-up of the BFA hem detail). Apply these product changes:
-- Football jersey: replace the white see-through mesh with a smooth, opaque silk/nylon jersey fabric (no holes, not see-through); keep the purple panels exactly as they are; make the fit slightly slimmer: take the body in about 0.5 inch on each side so it's less wide and boxy.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Close-up of the BFA mark at the jersey hem. Replace the white see-through mesh with a smooth, opaque silk/nylon jersey fabric (no holes). Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
-## #066  (close-up of the crest)
-
+### #066
 ```
-Edit this photo (close-up of the crest). Apply these product changes:
-- Football jersey: replace the white see-through mesh with a smooth, opaque silk/nylon jersey fabric (no holes, not see-through); keep the purple panels exactly as they are; make the fit slightly slimmer: take the body in about 0.5 inch on each side so it's less wide and boxy.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Close-up of the crest patch on the jersey. Replace the white see-through mesh with a smooth, opaque silk/nylon jersey fabric (no holes). Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
-## #067  (sweatpants on their own)
-
+### #067
 ```
-Edit this photo (sweatpants on their own). Apply these product changes:
-- Black sweatpants: make the legs longer; make the legs straight, not flared; remove both B + "brkfst" logos from the knees; add the jersey's crest patch (white/grey version) near the front left pocket; add a small "Brkfst Football Association" (BFA) mark near the back left pocket.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Black sweatpants, front view, grey backdrop. Make the sweatpants legs longer. Make the sweatpants legs straight instead of flared. Remove the B + "brkfst" logos from both knees. Add the jersey's crest patch in white/grey near the front left pocket. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
-
-## #068  (close-up of the knee logo)
 
+### #068
 ```
-Edit this photo (close-up of the knee logo). Apply these product changes:
-- Black sweatpants: make the legs longer; make the legs straight, not flared; remove both B + "brkfst" logos from the knees; add the jersey's crest patch (white/grey version) near the front left pocket; add a small "Brkfst Football Association" (BFA) mark near the back left pocket.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Close-up of the black sweatpants knee logo. Remove the B + "brkfst" logo from the knee, leaving plain black fabric. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
-## #069  (sweatpants on their own)
-
+### #069
 ```
-Edit this photo (sweatpants on their own). Apply these product changes:
-- Black sweatpants: make the legs longer; make the legs straight, not flared; remove both B + "brkfst" logos from the knees; add the jersey's crest patch (white/grey version) near the front left pocket; add a small "Brkfst Football Association" (BFA) mark near the back left pocket.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Black sweatpants, back view, grey backdrop. Make the sweatpants legs longer. Make the sweatpants legs straight instead of flared. Add a small "Brkfst Football Association" (BFA) mark near the back left pocket. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
-
-## #070  (white track pants)
 
+### #070
 ```
-Edit this photo (white track pants). Apply these product changes:
-- White track pants: remove the "X" logo; move the crest patch and the B + "brkfst" logo up toward the pocket.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Close-up of the crest patch on the white track pants by the black stripe. Move the crest patch and the B + "brkfst" logo on the white pants up toward the pocket. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
-## #071  (white track pants)
-
+### #071
 ```
-Edit this photo (white track pants). Apply these product changes:
-- White track pants: remove the "X" logo; move the crest patch and the B + "brkfst" logo up toward the pocket.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Close-up of the white track pants' B + brkfst logo and X by the black stripe. Remove the "X" from the white track pants. Move the crest patch and the B + "brkfst" logo on the white pants up toward the pocket. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
-
-## #072  (close-up of the sleeve/panel)
 
+### #072
 ```
-Edit this photo (close-up of the sleeve/panel). Apply these product changes:
-- Football jersey: replace the white see-through mesh with a smooth, opaque silk/nylon jersey fabric (no holes, not see-through); keep the purple panels exactly as they are; make the fit slightly slimmer: take the body in about 0.5 inch on each side so it's less wide and boxy.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Close-up of the jersey's purple panel and white mesh at the collar. Replace the white see-through mesh with a smooth, opaque silk/nylon jersey fabric (no holes); keep the purple panels exactly as they are. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
-## #073  (white track pants on their own)
-
+### #073
 ```
-Edit this photo (white track pants on their own). Apply these product changes:
-- White track pants: remove the "X" logo; move the crest patch and the B + "brkfst" logo up toward the pocket.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+White track pants, front view, grey backdrop. Remove the "X" from the white track pants. Move the crest patch and the B + "brkfst" logo on the white pants up toward the pocket. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
-## #074  (white track pants on their own)
-
+### #074
 ```
-Edit this photo (white track pants on their own). Apply these product changes:
-- White track pants: remove the "X" logo; move the crest patch and the B + "brkfst" logo up toward the pocket.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+White track pants, back view, grey backdrop. No product changes needed in this shot.
 ```
-
-## #075  (white track jacket on its own)
 
+### #075
 ```
-Edit this photo (white track jacket on its own). Apply these product changes:
-- White track jacket: remove the "X" logo; collar: replace the current print with only the word "BRKFST" in big, clean letters, centred on the collar.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+White track jacket, front view, grey backdrop. Remove the "X" from the white track jacket. On the white track jacket's collar, print only the word "BRKFST" in big clean letters, centred. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
-## #076  (white track jacket on its own)
-
+### #076
 ```
-Edit this photo (white track jacket on its own). Apply these product changes:
-- White track jacket: remove the "X" logo; collar: replace the current print with only the word "BRKFST" in big, clean letters, centred on the collar.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+White track jacket, back view, grey backdrop. On the white track jacket's collar, print only the word "BRKFST" in big clean letters, centred. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
-
-## #077  (white track pants)
 
+### #077
 ```
-Edit this photo (white track pants). Apply these product changes:
-- White track pants: remove the "X" logo; move the crest patch and the B + "brkfst" logo up toward the pocket.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Close-up of the crest patch on the white track pants. Move the crest patch and the B + "brkfst" logo on the white pants up toward the pocket. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
-## #078  (close-up of the collar)
-
+### #078
 ```
-Edit this photo (close-up of the collar). Apply these product changes:
-- White track jacket: remove the "X" logo; collar: replace the current print with only the word "BRKFST" in big, clean letters, centred on the collar.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Close-up of the white track jacket's collar print. On the white track jacket's collar, print only the word "BRKFST" in big clean letters, centred. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
-
-## #079  (black track jacket on its own)
 
+### #079
 ```
-Edit this photo (black track jacket on its own). Apply these product changes:
-- Black track jacket: remove the large B + "brkfst" logo from the front chest; add a front kangaroo/pouch pocket across the lower front; collar: replace the current puff print with only the word "BRKFST" in big, clean letters; remove the small boxed logo print on the collar; change every white logo and detail (side panels, sleeve logo, BFA hit) to the same light grey used in the white tracksuit's wave pattern; make the "X" logo smaller, the same size as the crest patch; recolour the crest patch to the white-and-red colourway of the white tracksuit's crest; make the BFA side-hit print crisp and cleanly printed.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Black track jacket, front view, grey backdrop. Remove the large B + "brkfst" logo from the front of the black track jacket. Add a front pouch (kangaroo) pocket across the lower front of the black track jacket. On the black track jacket's collar, replace the print with only the word "BRKFST" in big clean letters and remove the small boxed logo. Change the white details on the black track jacket (side panels, sleeve logo, BFA hit) to the light grey from the white tracksuit's wave pattern. Make the "X" on the black track jacket smaller, the same size as the crest patch. Recolour the crest patch to white and red, matching the crest on the white tracksuit. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
-## #080  (white track pants)
-
+### #080
 ```
-Edit this photo (white track pants). Apply these product changes:
-- White track pants: remove the "X" logo; move the crest patch and the B + "brkfst" logo up toward the pocket.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Close-up of the white track pants' B + brkfst logo and X. Remove the "X" from the white track pants. Move the crest patch and the B + "brkfst" logo on the white pants up toward the pocket. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
-
-## #081  (close-up of the collar)
 
+### #081
 ```
-Edit this photo (close-up of the collar). Apply these product changes:
-- Black track jacket: remove the large B + "brkfst" logo from the front chest; add a front kangaroo/pouch pocket across the lower front; collar: replace the current puff print with only the word "BRKFST" in big, clean letters; remove the small boxed logo print on the collar; change every white logo and detail (side panels, sleeve logo, BFA hit) to the same light grey used in the white tracksuit's wave pattern; make the "X" logo smaller, the same size as the crest patch; recolour the crest patch to the white-and-red colourway of the white tracksuit's crest; make the BFA side-hit print crisp and cleanly printed.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Close-up of the black track jacket's collar print. On the black track jacket's collar, replace the print with only the word "BRKFST" in big clean letters and remove the small boxed logo. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
-## #082  (black track jacket on its own)
-
+### #082
 ```
-Edit this photo (black track jacket on its own). Apply these product changes:
-- Black track jacket: remove the large B + "brkfst" logo from the front chest; add a front kangaroo/pouch pocket across the lower front; collar: replace the current puff print with only the word "BRKFST" in big, clean letters; remove the small boxed logo print on the collar; change every white logo and detail (side panels, sleeve logo, BFA hit) to the same light grey used in the white tracksuit's wave pattern; make the "X" logo smaller, the same size as the crest patch; recolour the crest patch to the white-and-red colourway of the white tracksuit's crest; make the BFA side-hit print crisp and cleanly printed.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Black track jacket, back view, grey backdrop. On the black track jacket's collar, replace the print with only the word "BRKFST" in big clean letters and remove the small boxed logo. Change the white details on the black track jacket (side panels, sleeve logo, BFA hit) to the light grey from the white tracksuit's wave pattern. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
-
-## #083  (close-up of the collar)
 
+### #083
 ```
-Edit this photo (close-up of the collar). Apply these product changes:
-- Black track jacket: remove the large B + "brkfst" logo from the front chest; add a front kangaroo/pouch pocket across the lower front; collar: replace the current puff print with only the word "BRKFST" in big, clean letters; remove the small boxed logo print on the collar; change every white logo and detail (side panels, sleeve logo, BFA hit) to the same light grey used in the white tracksuit's wave pattern; make the "X" logo smaller, the same size as the crest patch; recolour the crest patch to the white-and-red colourway of the white tracksuit's crest; make the BFA side-hit print crisp and cleanly printed.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Close-up of the black track jacket's collar and zip. On the black track jacket's collar, replace the print with only the word "BRKFST" in big clean letters and remove the small boxed logo. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
-## #084  (close-up of the X)
-
+### #084
 ```
-Edit this photo (close-up of the X). Apply these product changes:
-- Black track jacket: remove the large B + "brkfst" logo from the front chest; add a front kangaroo/pouch pocket across the lower front; collar: replace the current puff print with only the word "BRKFST" in big, clean letters; remove the small boxed logo print on the collar; change every white logo and detail (side panels, sleeve logo, BFA hit) to the same light grey used in the white tracksuit's wave pattern; make the "X" logo smaller, the same size as the crest patch; recolour the crest patch to the white-and-red colourway of the white tracksuit's crest; make the BFA side-hit print crisp and cleanly printed.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Close-up of the X on the black track jacket. Make the "X" smaller (same size as the crest patch) and change it from white to the light grey from the white tracksuit's wave pattern. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
-
-## #085  (close-up of the front logos)
 
+### #085
 ```
-Edit this photo (close-up of the front logos). Apply these product changes:
-- Black track jacket: remove the large B + "brkfst" logo from the front chest; add a front kangaroo/pouch pocket across the lower front; collar: replace the current puff print with only the word "BRKFST" in big, clean letters; remove the small boxed logo print on the collar; change every white logo and detail (side panels, sleeve logo, BFA hit) to the same light grey used in the white tracksuit's wave pattern; make the "X" logo smaller, the same size as the crest patch; recolour the crest patch to the white-and-red colourway of the white tracksuit's crest; make the BFA side-hit print crisp and cleanly printed.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Close-up of the black track jacket front: X, crest and B + brkfst logo. Remove the large B + "brkfst" logo from the front of the black track jacket. Make the "X" smaller (same size as the crest patch) and change it from white to the light grey from the white tracksuit's wave pattern. Recolour the crest patch to white and red, matching the crest on the white tracksuit. Add a front pouch (kangaroo) pocket across the lower front of the black track jacket. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
-## #086  (close-up of the BFA side hit)
-
+### #086
 ```
-Edit this photo (close-up of the BFA side hit). Apply these product changes:
-- Black track jacket: remove the large B + "brkfst" logo from the front chest; add a front kangaroo/pouch pocket across the lower front; collar: replace the current puff print with only the word "BRKFST" in big, clean letters; remove the small boxed logo print on the collar; change every white logo and detail (side panels, sleeve logo, BFA hit) to the same light grey used in the white tracksuit's wave pattern; make the "X" logo smaller, the same size as the crest patch; recolour the crest patch to the white-and-red colourway of the white tracksuit's crest; make the BFA side-hit print crisp and cleanly printed.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Close-up of the BFA side hit on the black track jacket. Reprint the BFA side hit so it is crisp and clean, in the light grey from the white tracksuit's wave pattern. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
-
-## #087  (close-up of the sleeve logo)
 
+### #087
 ```
-Edit this photo (close-up of the sleeve logo). Apply these product changes:
-- Black track jacket: remove the large B + "brkfst" logo from the front chest; add a front kangaroo/pouch pocket across the lower front; collar: replace the current puff print with only the word "BRKFST" in big, clean letters; remove the small boxed logo print on the collar; change every white logo and detail (side panels, sleeve logo, BFA hit) to the same light grey used in the white tracksuit's wave pattern; make the "X" logo smaller, the same size as the crest patch; recolour the crest patch to the white-and-red colourway of the white tracksuit's crest; make the BFA side-hit print crisp and cleanly printed.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Close-up of the black track jacket's sleeve logo at the cuff. Change the white sleeve logo to the light grey from the white tracksuit's wave pattern. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
-## #088  (close-up of the crest)
-
+### #088
 ```
-Edit this photo (close-up of the crest). Apply these product changes:
-- Black track jacket: remove the large B + "brkfst" logo from the front chest; add a front kangaroo/pouch pocket across the lower front; collar: replace the current puff print with only the word "BRKFST" in big, clean letters; remove the small boxed logo print on the collar; change every white logo and detail (side panels, sleeve logo, BFA hit) to the same light grey used in the white tracksuit's wave pattern; make the "X" logo smaller, the same size as the crest patch; recolour the crest patch to the white-and-red colourway of the white tracksuit's crest; make the BFA side-hit print crisp and cleanly printed.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Close-up of the crest patch on the black track jacket. Recolour the crest patch to white and red, matching the crest on the white tracksuit. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
-## #089  (model wearing the long sleeve)
-
+### #089
 ```
-Edit this photo (model wearing the long sleeve). Apply these product changes:
-- White long sleeve: take the body in about 0.5 inch on each side for a slimmer fit; make the sleeves longer; make the hexagon elbow pads longer and move them away from the sleeve seam.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Model wearing the white long sleeve, front view, grey backdrop. Take the long sleeve's body in about 0.5 inch on each side for a slimmer fit. Make the sleeves longer. Make the hexagon elbow pads longer and move them away from the sleeve seam. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
-
-## #090  (model wearing the long sleeve)
 
+### #090
 ```
-Edit this photo (model wearing the long sleeve). Apply these product changes:
-- White long sleeve: take the body in about 0.5 inch on each side for a slimmer fit; make the sleeves longer; make the hexagon elbow pads longer and move them away from the sleeve seam.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Model wearing the white long sleeve, arms crossed. Take the long sleeve's body in about 0.5 inch on each side for a slimmer fit. Make the sleeves longer. Make the hexagon elbow pads longer and move them away from the sleeve seam. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
-## #091  (model wearing the long sleeve)
-
+### #091
 ```
-Edit this photo (model wearing the long sleeve). Apply these product changes:
-- White long sleeve: take the body in about 0.5 inch on each side for a slimmer fit; make the sleeves longer; make the hexagon elbow pads longer and move them away from the sleeve seam.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Model wearing the white long sleeve, back view. Take the long sleeve's body in about 0.5 inch on each side for a slimmer fit. Make the sleeves longer. Make the hexagon elbow pads longer and move them away from the sleeve seam. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
-
-## #092  (close-up of the elbow pad)
 
+### #092
 ```
-Edit this photo (close-up of the elbow pad). Apply these product changes:
-- White long sleeve: take the body in about 0.5 inch on each side for a slimmer fit; make the sleeves longer; make the hexagon elbow pads longer and move them away from the sleeve seam.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Close-up of the white long sleeve's elbow pad on the model's arm. Make the hexagon elbow pads longer and move them away from the sleeve seam. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
-## #093  (model wearing the long sleeve)
-
+### #093
 ```
-Edit this photo (model wearing the long sleeve). Apply these product changes:
-- White long sleeve: take the body in about 0.5 inch on each side for a slimmer fit; make the sleeves longer; make the hexagon elbow pads longer and move them away from the sleeve seam.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Model wearing the white long sleeve, side view. Take the long sleeve's body in about 0.5 inch on each side for a slimmer fit. Make the sleeves longer. Make the hexagon elbow pads longer and move them away from the sleeve seam. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
-
-## #094  (black shorts on their own)
 
+### #094
 ```
-Edit this photo (black shorts on their own). Apply these product changes:
-- Black shorts: remove the "X" logo; change all white details (side stripes, logo) to the same light grey used in the white tracksuit's wave pattern; make the B + "brkfst" logo and the crest patch smaller and move both up toward the pocket; recolour the crest patch to the white-and-red colourway of the white tracksuit's crest.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Black shorts, front view, grey backdrop. Remove the "X" from the black shorts. Change the white side stripes and logo on the black shorts to the light grey from the white tracksuit's wave pattern. Make the B + "brkfst" logo and the crest patch on the shorts smaller and move both up toward the pocket. Recolour the shorts' crest patch to white and red, matching the crest on the white tracksuit. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
-## #095  (close-up of the shorts logos)
-
+### #095
 ```
-Edit this photo (close-up of the shorts logos). Apply these product changes:
-- Black shorts: remove the "X" logo; change all white details (side stripes, logo) to the same light grey used in the white tracksuit's wave pattern; make the B + "brkfst" logo and the crest patch smaller and move both up toward the pocket; recolour the crest patch to the white-and-red colourway of the white tracksuit's crest.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Close-up of the black shorts' B + brkfst logo and X. Remove the "X" from the black shorts. Change the white side stripes and logo on the black shorts to the light grey from the white tracksuit's wave pattern. Make the B + "brkfst" logo and the crest patch on the shorts smaller and move both up toward the pocket. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
-## #096  (close-up of the shorts crest)
-
+### #096
 ```
-Edit this photo (close-up of the shorts crest). Apply these product changes:
-- Black shorts: remove the "X" logo; change all white details (side stripes, logo) to the same light grey used in the white tracksuit's wave pattern; make the B + "brkfst" logo and the crest patch smaller and move both up toward the pocket; recolour the crest patch to the white-and-red colourway of the white tracksuit's crest.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Close-up of the crest patch on the black shorts. Recolour the shorts' crest patch to white and red, matching the crest on the white tracksuit. Make the B + "brkfst" logo and the crest patch on the shorts smaller and move both up toward the pocket. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
-
-## #097  (black jacket and shorts laid flat)
 
+### #097
 ```
-Edit this photo (black jacket and shorts laid flat). Apply these product changes:
-- Black track jacket: remove the large B + "brkfst" logo from the front chest; add a front kangaroo/pouch pocket across the lower front; collar: replace the current puff print with only the word "BRKFST" in big, clean letters; remove the small boxed logo print on the collar; change every white logo and detail (side panels, sleeve logo, BFA hit) to the same light grey used in the white tracksuit's wave pattern; make the "X" logo smaller, the same size as the crest patch; recolour the crest patch to the white-and-red colourway of the white tracksuit's crest; make the BFA side-hit print crisp and cleanly printed.
-- Black shorts: remove the "X" logo; change all white details (side stripes, logo) to the same light grey used in the white tracksuit's wave pattern; make the B + "brkfst" logo and the crest patch smaller and move both up toward the pocket; recolour the crest patch to the white-and-red colourway of the white tracksuit's crest.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Black track jacket and shorts laid flat together. Remove the large B + "brkfst" logo from the front of the black track jacket. Add a front pouch (kangaroo) pocket across the lower front of the black track jacket. On the black track jacket's collar, replace the print with only the word "BRKFST" in big clean letters and remove the small boxed logo. Change the white details on the black track jacket (side panels, sleeve logo, BFA hit) to the light grey from the white tracksuit's wave pattern. Make the "X" on the black track jacket smaller, the same size as the crest patch. Recolour the crest patch to white and red, matching the crest on the white tracksuit. Remove the "X" from the black shorts. Change the white side stripes and logo on the black shorts to the light grey from the white tracksuit's wave pattern. Make the B + "brkfst" logo and the crest patch on the shorts smaller and move both up toward the pocket. Recolour the shorts' crest patch to white and red, matching the crest on the white tracksuit. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
-## #098  (black shorts on their own)
-
+### #098
 ```
-Edit this photo (black shorts on their own). Apply these product changes:
-- Black shorts: remove the "X" logo; change all white details (side stripes, logo) to the same light grey used in the white tracksuit's wave pattern; make the B + "brkfst" logo and the crest patch smaller and move both up toward the pocket; recolour the crest patch to the white-and-red colourway of the white tracksuit's crest.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Black shorts, back view laid flat. Change the white side stripes and logo on the black shorts to the light grey from the white tracksuit's wave pattern. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
-
-## #099  (black track jacket on its own)
 
+### #099
 ```
-Edit this photo (black track jacket on its own). Apply these product changes:
-- Black track jacket: remove the large B + "brkfst" logo from the front chest; add a front kangaroo/pouch pocket across the lower front; collar: replace the current puff print with only the word "BRKFST" in big, clean letters; remove the small boxed logo print on the collar; change every white logo and detail (side panels, sleeve logo, BFA hit) to the same light grey used in the white tracksuit's wave pattern; make the "X" logo smaller, the same size as the crest patch; recolour the crest patch to the white-and-red colourway of the white tracksuit's crest; make the BFA side-hit print crisp and cleanly printed.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Black track jacket laid flat, front. Remove the large B + "brkfst" logo from the front of the black track jacket. Add a front pouch (kangaroo) pocket across the lower front of the black track jacket. On the black track jacket's collar, replace the print with only the word "BRKFST" in big clean letters and remove the small boxed logo. Change the white details on the black track jacket (side panels, sleeve logo, BFA hit) to the light grey from the white tracksuit's wave pattern. Make the "X" on the black track jacket smaller, the same size as the crest patch. Recolour the crest patch to white and red, matching the crest on the white tracksuit. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
-## #100  (black shorts on their own)
-
+### #100
 ```
-Edit this photo (black shorts on their own). Apply these product changes:
-- Black shorts: remove the "X" logo; change all white details (side stripes, logo) to the same light grey used in the white tracksuit's wave pattern; make the B + "brkfst" logo and the crest patch smaller and move both up toward the pocket; recolour the crest patch to the white-and-red colourway of the white tracksuit's crest.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Black shorts laid flat, front. Remove the "X" from the black shorts. Change the white side stripes and logo on the black shorts to the light grey from the white tracksuit's wave pattern. Make the B + "brkfst" logo and the crest patch on the shorts smaller and move both up toward the pocket. Recolour the shorts' crest patch to white and red, matching the crest on the white tracksuit. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
-
-## #101  (black track jacket on its own)
 
+### #101
 ```
-Edit this photo (black track jacket on its own). Apply these product changes:
-- Black track jacket: remove the large B + "brkfst" logo from the front chest; add a front kangaroo/pouch pocket across the lower front; collar: replace the current puff print with only the word "BRKFST" in big, clean letters; remove the small boxed logo print on the collar; change every white logo and detail (side panels, sleeve logo, BFA hit) to the same light grey used in the white tracksuit's wave pattern; make the "X" logo smaller, the same size as the crest patch; recolour the crest patch to the white-and-red colourway of the white tracksuit's crest; make the BFA side-hit print crisp and cleanly printed.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Black track jacket laid flat, back. On the black track jacket's collar, replace the print with only the word "BRKFST" in big clean letters and remove the small boxed logo. Change the white details on the black track jacket (side panels, sleeve logo, BFA hit) to the light grey from the white tracksuit's wave pattern. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
-## #102  (black track jacket on its own)
-
+### #102
 ```
-Edit this photo (black track jacket on its own). Apply these product changes:
-- Black track jacket: remove the large B + "brkfst" logo from the front chest; add a front kangaroo/pouch pocket across the lower front; collar: replace the current puff print with only the word "BRKFST" in big, clean letters; remove the small boxed logo print on the collar; change every white logo and detail (side panels, sleeve logo, BFA hit) to the same light grey used in the white tracksuit's wave pattern; make the "X" logo smaller, the same size as the crest patch; recolour the crest patch to the white-and-red colourway of the white tracksuit's crest; make the BFA side-hit print crisp and cleanly printed.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Black track jacket laid flat at an angle, front. Remove the large B + "brkfst" logo from the front of the black track jacket. Add a front pouch (kangaroo) pocket across the lower front of the black track jacket. On the black track jacket's collar, replace the print with only the word "BRKFST" in big clean letters and remove the small boxed logo. Change the white details on the black track jacket (side panels, sleeve logo, BFA hit) to the light grey from the white tracksuit's wave pattern. Make the "X" on the black track jacket smaller, the same size as the crest patch. Recolour the crest patch to white and red, matching the crest on the white tracksuit. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
-## #103  (jersey on its own)
-
+### #103
 ```
-Edit this photo (jersey on its own). Apply these product changes:
-- Football jersey: replace the white see-through mesh with a smooth, opaque silk/nylon jersey fabric (no holes, not see-through); keep the purple panels exactly as they are; make the fit slightly slimmer: take the body in about 0.5 inch on each side so it's less wide and boxy.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Football jersey laid flat, back with the large X. Replace the white see-through mesh with a smooth, opaque silk/nylon jersey fabric (no holes); keep the purple panels exactly as they are. Make the jersey slightly slimmer, taking the sides in about 0.5 inch so it is less wide and boxy. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
-
-## #104  (jersey on its own)
 
+### #104
 ```
-Edit this photo (jersey on its own). Apply these product changes:
-- Football jersey: replace the white see-through mesh with a smooth, opaque silk/nylon jersey fabric (no holes, not see-through); keep the purple panels exactly as they are; make the fit slightly slimmer: take the body in about 0.5 inch on each side so it's less wide and boxy.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Football jersey laid flat, front. Replace the white see-through mesh with a smooth, opaque silk/nylon jersey fabric (no holes); keep the purple panels exactly as they are. Make the jersey slightly slimmer, taking the sides in about 0.5 inch so it is less wide and boxy. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
-## #105  (beanie on its own)
-
+### #105
 ```
-Edit this photo (beanie on its own). Apply these product changes:
-- Beanie: make the bottom folded band thinner; remove the word "brkfst" and keep only the B logo.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Black beanie laid flat. Make the beanie's bottom folded band thinner. Remove the word "brkfst" from the beanie and keep only the B logo. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
-
-## #106  (jersey on its own)
 
+### #106
 ```
-Edit this photo (jersey on its own). Apply these product changes:
-- Football jersey: replace the white see-through mesh with a smooth, opaque silk/nylon jersey fabric (no holes, not see-through); keep the purple panels exactly as they are; make the fit slightly slimmer: take the body in about 0.5 inch on each side so it's less wide and boxy.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Football jersey folded, front. Replace the white see-through mesh with a smooth, opaque silk/nylon jersey fabric (no holes); keep the purple panels exactly as they are. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
-## #107  (sweatpants on their own)
-
+### #107
 ```
-Edit this photo (sweatpants on their own). Apply these product changes:
-- Black sweatpants: make the legs longer; make the legs straight, not flared; remove both B + "brkfst" logos from the knees; add the jersey's crest patch (white/grey version) near the front left pocket; add a small "Brkfst Football Association" (BFA) mark near the back left pocket.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+Black sweatpants laid flat, front. Make the sweatpants legs longer. Make the sweatpants legs straight instead of flared. Remove the B + "brkfst" logos from both knees. Add the jersey's crest patch in white/grey near the front left pocket. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
-
-## #108  (white track jacket on its own)
 
+### #108
 ```
-Edit this photo (white track jacket on its own). Apply these product changes:
-- White track jacket: remove the "X" logo; collar: replace the current print with only the word "BRKFST" in big, clean letters, centred on the collar.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+White track jacket laid flat, front. Remove the "X" from the white track jacket. On the white track jacket's collar, print only the word "BRKFST" in big clean letters, centred. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
-## #109  (white track jacket on its own)
-
+### #109
 ```
-Edit this photo (white track jacket on its own). Apply these product changes:
-- White track jacket: remove the "X" logo; collar: replace the current print with only the word "BRKFST" in big, clean letters, centred on the collar.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+White track jacket laid flat, front, sleeves out. Remove the "X" from the white track jacket. On the white track jacket's collar, print only the word "BRKFST" in big clean letters, centred. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
-
-## #110  (white track jacket on its own)
 
+### #110
 ```
-Edit this photo (white track jacket on its own). Apply these product changes:
-- White track jacket: remove the "X" logo; collar: replace the current print with only the word "BRKFST" in big, clean letters, centred on the collar.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+White track jacket laid flat, open collar. Remove the "X" from the white track jacket. On the white track jacket's collar, print only the word "BRKFST" in big clean letters, centred. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
-## #111  (white set laid flat)
-
+### #111
 ```
-Edit this photo (white set laid flat). Apply these product changes:
-- White track jacket: remove the "X" logo; collar: replace the current print with only the word "BRKFST" in big, clean letters, centred on the collar.
-- White track pants: remove the "X" logo; move the crest patch and the B + "brkfst" logo up toward the pocket.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+White track jacket and pants laid flat as a set. Remove the "X" from the white track jacket. On the white track jacket's collar, print only the word "BRKFST" in big clean letters, centred. Remove the "X" from the white track pants. Move the crest patch and the B + "brkfst" logo on the white pants up toward the pocket. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
-
-## #112  (white track jacket on its own)
 
+### #112
 ```
-Edit this photo (white track jacket on its own). Apply these product changes:
-- White track jacket: remove the "X" logo; collar: replace the current print with only the word "BRKFST" in big, clean letters, centred on the collar.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+White track jacket laid flat, back. On the white track jacket's collar, print only the word "BRKFST" in big clean letters, centred. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
-## #113  (white track pants on their own)
-
+### #113
 ```
-Edit this photo (white track pants on their own). Apply these product changes:
-- White track pants: remove the "X" logo; move the crest patch and the B + "brkfst" logo up toward the pocket.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+White track pants laid flat, front. Remove the "X" from the white track pants. Move the crest patch and the B + "brkfst" logo on the white pants up toward the pocket. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
-
-## #114  (white track pants on their own)
 
+### #114
 ```
-Edit this photo (white track pants on their own). Apply these product changes:
-- White track pants: remove the "X" logo; move the crest patch and the B + "brkfst" logo up toward the pocket.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+White track pants laid flat, back. No product changes needed in this shot.
 ```
 
-## #115  (long sleeve on its own)
-
+### #115
 ```
-Edit this photo (long sleeve on its own). Apply these product changes:
-- White long sleeve: take the body in about 0.5 inch on each side for a slimmer fit; make the sleeves longer; make the hexagon elbow pads longer and move them away from the sleeve seam.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+White long sleeve laid flat, sleeves out. Take the long sleeve's body in about 0.5 inch on each side for a slimmer fit. Make the sleeves longer. Make the hexagon elbow pads longer and move them away from the sleeve seam. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
-
-## #116  (long sleeve on its own)
 
+### #116
 ```
-Edit this photo (long sleeve on its own). Apply these product changes:
-- White long sleeve: take the body in about 0.5 inch on each side for a slimmer fit; make the sleeves longer; make the hexagon elbow pads longer and move them away from the sleeve seam.
-Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
+White long sleeve laid flat, front. Take the long sleeve's body in about 0.5 inch on each side for a slimmer fit. Make the sleeves longer. Make the hexagon elbow pads longer and move them away from the sleeve seam. Keep everything else exactly the same: model, pose, face, hair, hands, lighting, shadows, background, framing and fabric texture.
 ```
 
-## Extra: jersey colourway (any jersey photo)
+### Extra: jersey colourway (use on any jersey photo)
 
 ```
-Recolour the football jersey: change the purple panels to a soft, muted pistachio green and change the white body, trim and logos to a cream/tan colour. Keep the texture, shading, folds and all logos in place. Keep everything else exactly the same.
+Recolour the football jersey: change the purple panels to a soft, muted pistachio green and change the white body, trim and logos to cream/tan. Keep the texture, shading, folds and all logos in place. Keep everything else exactly the same.
 ```
 
-## Extra: white long sleeve, grey version (#057, #059, #089–#093, #115, #116)
+### Extra: grey long sleeve (use on #057, #059, #089–#093, #115, #116)
 
 ```
-Recolour the white long sleeve to a light heather grey, including the hexagon elbow pads. Keep the black B + "brkfst" chest logo, the texture and shading. Keep everything else exactly the same.
+Recolour the white long sleeve, including the elbow pads, to a light heather grey. Keep the black B + brkfst chest logo, texture and shading. Keep everything else exactly the same.
 ```
