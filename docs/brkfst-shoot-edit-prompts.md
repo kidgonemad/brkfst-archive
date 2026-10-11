@@ -577,19 +577,19 @@ Edit this photo (sweatpants on their own). Apply these product changes:
 Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
 ```
 
-## #070  (white track jacket)
+## #070  (white track pants)
 
 ```
-Edit this photo (white track jacket). Apply these product changes:
-- White track jacket: remove the "X" logo; collar: replace the current print with only the word "BRKFST" in big, clean letters, centred on the collar.
+Edit this photo (white track pants). Apply these product changes:
+- White track pants: remove the "X" logo; move the crest patch and the B + "brkfst" logo up toward the pocket.
 Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
 ```
 
-## #071  (white track jacket)
+## #071  (white track pants)
 
 ```
-Edit this photo (white track jacket). Apply these product changes:
-- White track jacket: remove the "X" logo; collar: replace the current print with only the word "BRKFST" in big, clean letters, centred on the collar.
+Edit this photo (white track pants). Apply these product changes:
+- White track pants: remove the "X" logo; move the crest patch and the B + "brkfst" logo up toward the pocket.
 Keep everything else exactly the same: the model, pose, face, hair, lighting, background, camera angle, colours and all other details.
 ```
 
