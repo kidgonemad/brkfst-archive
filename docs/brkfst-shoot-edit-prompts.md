@@ -708,3 +708,133 @@ Flat-lay product flyer on a white background with an orange B logo at the top an
 ```
 Drop 01 lookbook flyer on a white background with an orange B logo, orange divider lines, numbered item labels and an orange "AVAILABLE NOW ON WWW.SHOPBRKFST.COM" bar at the bottom, showing the white track suit, black track jacket, football jersey, white long sleeve, black shorts, black sweatpants, beanie, and the accessories row. Keep all the item labels and numbers exactly as they are. Make these changes to the clothes only. White track jacket: Remove the "X" from the white track jacket. On the white track jacket's collar, print only the word "BRKFST" in big clean letters, centred. White track pants: Remove the "X" from the white track pants. Move the crest patch and the B + "brkfst" logo on the white pants up toward the pocket. Purple/white football jersey: Replace the white see-through mesh with a smooth, opaque silk/nylon jersey fabric (no holes); keep the purple panels exactly as they are. Make the jersey slightly slimmer, taking the sides in about 0.5 inch so it is less wide and boxy. White long sleeve: Take the long sleeve's body in about 0.5 inch on each side for a slimmer fit. Make the sleeves longer. Make the hexagon elbow pads longer and move them away from the sleeve seam. Black track jacket: On the front chest of the black track jacket, keep the large B logo but remove the word "brkfst" underneath it. Add a front pouch (kangaroo) pocket across the lower front of the black track jacket. On the black track jacket's collar, replace the print with only the word "BRKFST" in big clean letters and remove the small boxed logo. Change the white details on the black track jacket (side panels, sleeve logo, BFA hit) to the light grey from the white tracksuit's wave pattern. Make the "X" on the black track jacket smaller, the same size as the crest patch. Recolour the crest patch to white and red, matching the crest on the white tracksuit. Black sweatpants: Make the sweatpants legs longer. Make the sweatpants legs straight instead of flared. Remove the B + "brkfst" logos from both knees. Add a small embroidered crest patch to the front of the sweatpants on the wearer's left upper thigh (the right-hand leg as you look at the flat lay), just below the side pocket opening. Keep the patch small and subtle: about 5 cm (2 inches) wide, roughly a third of the width of the pocket opening, not a large badge. The patch is a shield-shaped crest with a thick black outline: a white embroidered eagle with spread wings over a grey felt shield, framed by white gothic ornamental flourishes, with a white ribbon banner across the middle reading "BRKFST CLUB" in black gothic letters. Stitch it flat onto the fabric so it follows the folds and lighting of the pants. Black shorts: Remove the "X" from the black shorts. Change the white side stripes and logo on the black shorts to the light grey from the white tracksuit's wave pattern. Make the B + "brkfst" logo and the crest patch on the shorts smaller and move both up toward the pocket. Recolour the shorts' crest patch to white and red, matching the crest on the white tracksuit. Black beanie: Make the beanie's bottom folded band thinner. Remove the word "brkfst" from the beanie and keep only the B logo. Keep everything else exactly the same: the white background, the orange B logo and orange text/boxes, the layout and position of every item, the socks, lighters, keychain and X ashtray, lighting, shadows and fabric texture. Keep the exact framing and proportions of the uploaded image: do not stretch, squeeze, crop or zoom.
 ```
+
+## Flyers, one piece at a time
+
+Run step 1, upload the result, run step 2, and so on.
+
+### `brkfst-flyer-flatlay-shoot.jpg`
+
+Step 1 · White track jacket:
+```
+Edit only the white wave-pattern track jacket on the left in this flat-lay flyer. Remove the "X" from the white track jacket. On the white track jacket's collar, print only the word "BRKFST" in big clean letters, centred. Change only this one item. Keep everything else in the image exactly the same: every other item, the white background, the orange logo, text and boxes, the layout, lighting and shadows. Keep the exact framing and proportions of the uploaded image: do not stretch, squeeze, crop or zoom.
+```
+
+Step 2 · White track pants:
+```
+Edit only the white wave-pattern track pants on the left in this flat-lay flyer. Remove the "X" from the white track pants. Move the crest patch and the B + "brkfst" logo on the white pants up toward the pocket. Change only this one item. Keep everything else in the image exactly the same: every other item, the white background, the orange logo, text and boxes, the layout, lighting and shadows. Keep the exact framing and proportions of the uploaded image: do not stretch, squeeze, crop or zoom.
+```
+
+Step 3 · Purple/white football jersey:
+```
+Edit only the purple and white football jersey at the top centre in this flat-lay flyer. Replace the white see-through mesh with a smooth, opaque silk/nylon jersey fabric (no holes); keep the purple panels exactly as they are. Make the jersey slightly slimmer, taking the sides in about 0.5 inch so it is less wide and boxy. Change only this one item. Keep everything else in the image exactly the same: every other item, the white background, the orange logo, text and boxes, the layout, lighting and shadows. Keep the exact framing and proportions of the uploaded image: do not stretch, squeeze, crop or zoom.
+```
+
+Step 4 · White long sleeve:
+```
+Edit only the white long sleeve in the centre, under the jersey in this flat-lay flyer. Take the long sleeve's body in about 0.5 inch on each side for a slimmer fit. Make the sleeves longer. Make the hexagon elbow pads longer and move them away from the sleeve seam. Change only this one item. Keep everything else in the image exactly the same: every other item, the white background, the orange logo, text and boxes, the layout, lighting and shadows. Keep the exact framing and proportions of the uploaded image: do not stretch, squeeze, crop or zoom.
+```
+
+Step 5 · Black track jacket:
+```
+Edit only the black track jacket on the right in this flat-lay flyer. On the front chest of the black track jacket, keep the large B logo but remove the word "brkfst" underneath it. Add a front pouch (kangaroo) pocket across the lower front of the black track jacket. On the black track jacket's collar, replace the print with only the word "BRKFST" in big clean letters and remove the small boxed logo. Change the white details on the black track jacket (side panels, sleeve logo, BFA hit) to the light grey from the white tracksuit's wave pattern. Make the "X" on the black track jacket smaller, the same size as the crest patch. Recolour the crest patch to white and red, matching the crest on the white tracksuit. Change only this one item. Keep everything else in the image exactly the same: every other item, the white background, the orange logo, text and boxes, the layout, lighting and shadows. Keep the exact framing and proportions of the uploaded image: do not stretch, squeeze, crop or zoom.
+```
+
+Step 6 · Black sweatpants:
+```
+Edit only the black sweatpants on the right, under the black jacket in this flat-lay flyer. Make the sweatpants legs longer. Make the sweatpants legs straight instead of flared. Remove the B + "brkfst" logos from both knees. Add a small embroidered crest patch to the front of the sweatpants on the wearer's left upper thigh (the right-hand leg as you look at the flat lay), just below the side pocket opening. Keep the patch small and subtle: about 5 cm (2 inches) wide, roughly a third of the width of the pocket opening, not a large badge. The patch is a shield-shaped crest with a thick black outline: a white embroidered eagle with spread wings over a grey felt shield, framed by white gothic ornamental flourishes, with a white ribbon banner across the middle reading "BRKFST CLUB" in black gothic letters. Stitch it flat onto the fabric so it follows the folds and lighting of the pants. Change only this one item. Keep everything else in the image exactly the same: every other item, the white background, the orange logo, text and boxes, the layout, lighting and shadows. Keep the exact framing and proportions of the uploaded image: do not stretch, squeeze, crop or zoom.
+```
+
+Step 7 · Black shorts:
+```
+Edit only the black shorts at the bottom left in this flat-lay flyer. Remove the "X" from the black shorts. Change the white side stripes and logo on the black shorts to the light grey from the white tracksuit's wave pattern. Make the B + "brkfst" logo and the crest patch on the shorts smaller and move both up toward the pocket. Recolour the shorts' crest patch to white and red, matching the crest on the white tracksuit. Change only this one item. Keep everything else in the image exactly the same: every other item, the white background, the orange logo, text and boxes, the layout, lighting and shadows. Keep the exact framing and proportions of the uploaded image: do not stretch, squeeze, crop or zoom.
+```
+
+Step 8 · Black beanie:
+```
+Edit only the black beanie at the bottom right in this flat-lay flyer. Make the beanie's bottom folded band thinner. Remove the word "brkfst" from the beanie and keep only the B logo. Change only this one item. Keep everything else in the image exactly the same: every other item, the white background, the orange logo, text and boxes, the layout, lighting and shadows. Keep the exact framing and proportions of the uploaded image: do not stretch, squeeze, crop or zoom.
+```
+
+### `brkfst-flyer-flatlay.jpg`
+
+Step 1 · White track jacket:
+```
+Edit only the white wave-pattern track jacket on the left in this flat-lay flyer. Remove the "X" from the white track jacket. On the white track jacket's collar, print only the word "BRKFST" in big clean letters, centred. Change only this one item. Keep everything else in the image exactly the same: every other item, the white background, the orange logo, text and boxes, the layout, lighting and shadows. Keep the exact framing and proportions of the uploaded image: do not stretch, squeeze, crop or zoom.
+```
+
+Step 2 · White track pants:
+```
+Edit only the white wave-pattern track pants on the left in this flat-lay flyer. Remove the "X" from the white track pants. Move the crest patch and the B + "brkfst" logo on the white pants up toward the pocket. Change only this one item. Keep everything else in the image exactly the same: every other item, the white background, the orange logo, text and boxes, the layout, lighting and shadows. Keep the exact framing and proportions of the uploaded image: do not stretch, squeeze, crop or zoom.
+```
+
+Step 3 · Purple/white football jersey:
+```
+Edit only the purple and white football jersey at the top centre in this flat-lay flyer. Replace the white see-through mesh with a smooth, opaque silk/nylon jersey fabric (no holes); keep the purple panels exactly as they are. Make the jersey slightly slimmer, taking the sides in about 0.5 inch so it is less wide and boxy. Change only this one item. Keep everything else in the image exactly the same: every other item, the white background, the orange logo, text and boxes, the layout, lighting and shadows. Keep the exact framing and proportions of the uploaded image: do not stretch, squeeze, crop or zoom.
+```
+
+Step 4 · White long sleeve:
+```
+Edit only the white long sleeve in the centre, under the jersey in this flat-lay flyer. Take the long sleeve's body in about 0.5 inch on each side for a slimmer fit. Make the sleeves longer. Make the hexagon elbow pads longer and move them away from the sleeve seam. Change only this one item. Keep everything else in the image exactly the same: every other item, the white background, the orange logo, text and boxes, the layout, lighting and shadows. Keep the exact framing and proportions of the uploaded image: do not stretch, squeeze, crop or zoom.
+```
+
+Step 5 · Black track jacket:
+```
+Edit only the black track jacket on the right in this flat-lay flyer. On the front chest of the black track jacket, keep the large B logo but remove the word "brkfst" underneath it. Add a front pouch (kangaroo) pocket across the lower front of the black track jacket. On the black track jacket's collar, replace the print with only the word "BRKFST" in big clean letters and remove the small boxed logo. Change the white details on the black track jacket (side panels, sleeve logo, BFA hit) to the light grey from the white tracksuit's wave pattern. Make the "X" on the black track jacket smaller, the same size as the crest patch. Recolour the crest patch to white and red, matching the crest on the white tracksuit. Change only this one item. Keep everything else in the image exactly the same: every other item, the white background, the orange logo, text and boxes, the layout, lighting and shadows. Keep the exact framing and proportions of the uploaded image: do not stretch, squeeze, crop or zoom.
+```
+
+Step 6 · Black sweatpants:
+```
+Edit only the black sweatpants on the right, under the black jacket in this flat-lay flyer. Make the sweatpants legs longer. Make the sweatpants legs straight instead of flared. Remove the B + "brkfst" logos from both knees. Add a small embroidered crest patch to the front of the sweatpants on the wearer's left upper thigh (the right-hand leg as you look at the flat lay), just below the side pocket opening. Keep the patch small and subtle: about 5 cm (2 inches) wide, roughly a third of the width of the pocket opening, not a large badge. The patch is a shield-shaped crest with a thick black outline: a white embroidered eagle with spread wings over a grey felt shield, framed by white gothic ornamental flourishes, with a white ribbon banner across the middle reading "BRKFST CLUB" in black gothic letters. Stitch it flat onto the fabric so it follows the folds and lighting of the pants. Change only this one item. Keep everything else in the image exactly the same: every other item, the white background, the orange logo, text and boxes, the layout, lighting and shadows. Keep the exact framing and proportions of the uploaded image: do not stretch, squeeze, crop or zoom.
+```
+
+Step 7 · Black shorts:
+```
+Edit only the black shorts at the bottom left in this flat-lay flyer. Remove the "X" from the black shorts. Change the white side stripes and logo on the black shorts to the light grey from the white tracksuit's wave pattern. Make the B + "brkfst" logo and the crest patch on the shorts smaller and move both up toward the pocket. Recolour the shorts' crest patch to white and red, matching the crest on the white tracksuit. Change only this one item. Keep everything else in the image exactly the same: every other item, the white background, the orange logo, text and boxes, the layout, lighting and shadows. Keep the exact framing and proportions of the uploaded image: do not stretch, squeeze, crop or zoom.
+```
+
+Step 8 · Black beanie:
+```
+Edit only the black beanie at the bottom right in this flat-lay flyer. Make the beanie's bottom folded band thinner. Remove the word "brkfst" from the beanie and keep only the B logo. Change only this one item. Keep everything else in the image exactly the same: every other item, the white background, the orange logo, text and boxes, the layout, lighting and shadows. Keep the exact framing and proportions of the uploaded image: do not stretch, squeeze, crop or zoom.
+```
+
+### `brkfst-flyer-lookbook.jpg`
+
+Step 1 · White track jacket:
+```
+Edit only the large white wave-pattern track jacket on the left (item 01) in this flat-lay flyer. Remove the "X" from the white track jacket. On the white track jacket's collar, print only the word "BRKFST" in big clean letters, centred. Change only this one item. Keep everything else in the image exactly the same: every other item, the white background, the orange logo, text and boxes, the layout, lighting and shadows. Keep the exact framing and proportions of the uploaded image: do not stretch, squeeze, crop or zoom.
+```
+
+Step 2 · White track pants:
+```
+Edit only the white wave-pattern track pants on the left (item 01) in this flat-lay flyer. Remove the "X" from the white track pants. Move the crest patch and the B + "brkfst" logo on the white pants up toward the pocket. Change only this one item. Keep everything else in the image exactly the same: every other item, the white background, the orange logo, text and boxes, the layout, lighting and shadows. Keep the exact framing and proportions of the uploaded image: do not stretch, squeeze, crop or zoom.
+```
+
+Step 3 · Purple/white football jersey:
+```
+Edit only the football jersey at the top right (item 03) in this flat-lay flyer. Replace the white see-through mesh with a smooth, opaque silk/nylon jersey fabric (no holes); keep the purple panels exactly as they are. Make the jersey slightly slimmer, taking the sides in about 0.5 inch so it is less wide and boxy. Change only this one item. Keep everything else in the image exactly the same: every other item, the white background, the orange logo, text and boxes, the layout, lighting and shadows. Keep the exact framing and proportions of the uploaded image: do not stretch, squeeze, crop or zoom.
+```
+
+Step 4 · White long sleeve:
+```
+Edit only the white long sleeve in the middle (item 04) in this flat-lay flyer. Take the long sleeve's body in about 0.5 inch on each side for a slimmer fit. Make the sleeves longer. Make the hexagon elbow pads longer and move them away from the sleeve seam. Change only this one item. Keep everything else in the image exactly the same: every other item, the white background, the orange logo, text and boxes, the layout, lighting and shadows. Keep the exact framing and proportions of the uploaded image: do not stretch, squeeze, crop or zoom.
+```
+
+Step 5 · Black track jacket:
+```
+Edit only the black track jacket at the top middle (item 02) in this flat-lay flyer. On the front chest of the black track jacket, keep the large B logo but remove the word "brkfst" underneath it. Add a front pouch (kangaroo) pocket across the lower front of the black track jacket. On the black track jacket's collar, replace the print with only the word "BRKFST" in big clean letters and remove the small boxed logo. Change the white details on the black track jacket (side panels, sleeve logo, BFA hit) to the light grey from the white tracksuit's wave pattern. Make the "X" on the black track jacket smaller, the same size as the crest patch. Recolour the crest patch to white and red, matching the crest on the white tracksuit. Change only this one item. Keep everything else in the image exactly the same: every other item, the white background, the orange logo, text and boxes, the layout, lighting and shadows. Keep the exact framing and proportions of the uploaded image: do not stretch, squeeze, crop or zoom.
+```
+
+Step 6 · Black sweatpants:
+```
+Edit only the black sweatpants at the bottom middle (item 06) in this flat-lay flyer. Make the sweatpants legs longer. Make the sweatpants legs straight instead of flared. Remove the B + "brkfst" logos from both knees. Add a small embroidered crest patch to the front of the sweatpants on the wearer's left upper thigh (the right-hand leg as you look at the flat lay), just below the side pocket opening. Keep the patch small and subtle: about 5 cm (2 inches) wide, roughly a third of the width of the pocket opening, not a large badge. The patch is a shield-shaped crest with a thick black outline: a white embroidered eagle with spread wings over a grey felt shield, framed by white gothic ornamental flourishes, with a white ribbon banner across the middle reading "BRKFST CLUB" in black gothic letters. Stitch it flat onto the fabric so it follows the folds and lighting of the pants. Change only this one item. Keep everything else in the image exactly the same: every other item, the white background, the orange logo, text and boxes, the layout, lighting and shadows. Keep the exact framing and proportions of the uploaded image: do not stretch, squeeze, crop or zoom.
+```
+
+Step 7 · Black shorts:
+```
+Edit only the black shorts on the right (item 05) in this flat-lay flyer. Remove the "X" from the black shorts. Change the white side stripes and logo on the black shorts to the light grey from the white tracksuit's wave pattern. Make the B + "brkfst" logo and the crest patch on the shorts smaller and move both up toward the pocket. Recolour the shorts' crest patch to white and red, matching the crest on the white tracksuit. Change only this one item. Keep everything else in the image exactly the same: every other item, the white background, the orange logo, text and boxes, the layout, lighting and shadows. Keep the exact framing and proportions of the uploaded image: do not stretch, squeeze, crop or zoom.
+```
+
+Step 8 · Black beanie:
+```
+Edit only the black beanie at the bottom right (item 07) in this flat-lay flyer. Make the beanie's bottom folded band thinner. Remove the word "brkfst" from the beanie and keep only the B logo. Change only this one item. Keep everything else in the image exactly the same: every other item, the white background, the orange logo, text and boxes, the layout, lighting and shadows. Keep the exact framing and proportions of the uploaded image: do not stretch, squeeze, crop or zoom.
+```
